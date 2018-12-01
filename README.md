@@ -4,7 +4,7 @@ Laravel - Game
 <h3>Instalación</h3> 
 
 <ul>
-<li>desde la consola en un directorio con permiso de escritura: <br><br>
+<li>desde la consola en un directorio con permiso de escritura: <br>
 		git clone https://github.com/ProcneDC/natujuegos.git<br>
 		cd natujuegos <br>
 		composer install <br>
@@ -16,7 +16,7 @@ Laravel - Game
 
 <li>Editar el archivo .env para modificar los seteos del servidor MySQL</li>
 
-<li>Tipear en la consola<br><br>
+<li>Tipear en la consola<br>
 	php artisan migrate <br>
 	php artisan serve <br><br>
 </li>
