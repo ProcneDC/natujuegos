@@ -4,14 +4,13 @@ Laravel - Game
 <h3>Instalación</h3> 
 
 <ul>
-  <li>desde la consola en un directorio con permiso de escritura: <br><br>
-
+<li>desde la consola en un directorio con permiso de escritura: <br><br>
 		git clone https://github.com/ProcneDC/natujuegos.git<br>
 		cd natujuegos <br>
 		composer install <br>
 		cp .env.example .env <br>
 		php artisan key:generate <br><br>
-	</li>
+</li>
 
 <li>Crear un schema en MySQL llamado "natujuegos"</li>
 
@@ -24,3 +23,4 @@ Laravel - Game
 
 <li> Ir a localhost:8000 en el navegador
 </li>
+</ul>
