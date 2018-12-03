@@ -19,6 +19,13 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('/profile', 'UserController@profile')->name('profile')->middleware('auth');
+
+Route::post('/profile', 'UserController@update')->middleware('auth');
+
+Route::get('/home_user', 'UserController@dashboard')->middleware('auth');
+
+Route::get('/memotest', 'UserController@index_memotest');
 
 // rutas de auth (login, register, etc.)
 //Route::auth();

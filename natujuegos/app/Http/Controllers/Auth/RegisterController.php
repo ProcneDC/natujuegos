@@ -73,6 +73,10 @@ class RegisterController extends Controller
           $path = request()->file('avatar')->store('images');
         }
 
+        //Storage::setVisibility($path, 'public');
+
+
+
         return User::create([
             'name' => $data['name'],
             'email' => $data['email'],
