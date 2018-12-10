@@ -1,0 +1,1043 @@
+"id","cientific","name","regions","status","family","rarity","photo","voice","author","description","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","a1","b1","c1","d1","e1","f1","g1","h1","i1","j1","k1","l1","m1","n1","o1"
+1,"Rhea americana","Ñandú","B-C-G-H-f-j","CA","RHEIDAE","3.0",,,,,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+2,"Rhea pennata","Choique","E-F-J","CA","RHEIDAE","3.0",,,,,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,"Tinamus solitarius","Macuco","A","CA","TINAMIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,"Crypturellus obsoletus","Tataupa rojizo","A",,"TINAMIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,"Crypturellus undulatus","Tataupa listado","B",,"TINAMIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,"Crypturellus parvirostris","Tataupa chico","A-d",,"TINAMIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,"Crypturellus tataupa","Tataupa común","A-B-C-D",,"TINAMIDAE","4.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,"Rhynchotus rufescens","Colorada","N",,"TINAMIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,"Rhynchotus maculicollis","Guaipo","D-e",,"TINAMIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+10,"Nothoprocta ornata","Inambú serrano","d-E",,"TINAMIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+11,"Nothoprocta cinerascens","Inambú montaraz","C-F-G",,"TINAMIDAE","4.0",,,,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,"Nothoprocta pentlandii","Inambú silbón","E-g",,"TINAMIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+13,"Nothura darwinii","Inambú pálido","C-E-F-G-h",,"TINAMIDAE","4.0",,,,,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+14,"Nothura maculosa","Inambú común","N",,"TINAMIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,"Eudromia elegans","Martineta común","C-F-j",,"TINAMIDAE","4.0",,,,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+16,"Eudromia formosa","Martineta chaqueña","C-b",,"TINAMIDAE","3.0",,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,"Tinamotis pentlandii","Quiula puneña","E",,"TINAMIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,"Tinamotis ingoufi","Quiula patagónica","J-f",,"TINAMIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,"Chauna torquata","Chajá","N",,"ANHIMIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,"Dendrocygna bicolor","Sirirí colorado","N",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,"Dendrocygna viduata","Sirirí pampa","N",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,"Dendrocygna autumnalis","Sirirí vientre negro","B-C-g-h",,"ANATIDAE","3.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+23,"Anser anser","Ganso doméstico","h- -M","(In)","ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+24,"Cygnus melancoryphus","Cisne cuello negro","O",,"ANATIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,"Coscoroba coscoroba","Coscoroba","O",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,"Oressochen jubatus","Ganso de monte","b-c",,"ANATIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+27,"Oressochen melanopterus","Guayata","E",,"ANATIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,"Chloephaga picta","Cauquén común","F-H-I-J-M",,"ANATIDAE","5.0",,,,,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,"Chloephaga hybrida","Caranca","K-M",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,"Chloephaga poliocephala","Cauquén real","F-H-I-J-m",,"ANATIDAE","4.0",,,,,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+31,"Chloephaga rubidiceps","Cauquén colorado","F-H-J-M",,"ANATIDAE","1.0",,,,,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,"Cairina moschata","Pato real","A-B-C-D-g-h",,"ANATIDAE","3.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+33,"Sarkidiornis melanotos","Pato crestudo","B-C-D-g-h",,"ANATIDAE","2.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+34,"Callonetta leucophrys","Pato de collar","B-C-G-H",,"ANATIDAE","3.0",,,,,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,"Amazonetta brasiliensis","Pato cutirí","N",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,"Merganetta armata","Pato de torrente","D-E-I","CA","ANATIDAE","3.0",,,,,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,"Tachyeres patachonicus","Quetro volador","I-J-K",,"ANATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,"Tachyeres pteneres","Quetro austral","K",,"ANATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,"Tachyeres brachypterus","Quetro malvinero","M","(En)","ANATIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,"Tachyeres leucocephalus","Quetro cabeza blanca","K","(En)","ANATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,"Lophonetta specularioides","Pato crestón","E-J-K-M","Vu","ANATIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,"Speculanas specularis","Pato de anteojos","I-J","CA","ANATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,"Anas sibilatrix","Pato overo","F-G-H-I-J-K-M",,"ANATIDAE","4.0",,,,,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,"Anas flavirostris","Pato barcino","O",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,"Anas georgica","Pato maicero","O",,"ANATIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,"Anas bahamensis","Pato gargantilla","O",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,"Anas pupa","Pato puneño","E",,"ANATIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,"Anas versicolor","Pato capuchino","O",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,"Anas discors","Pato media luna","O",,"ANATIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,"Anas cyanoptera","Pato colorado","O",,"ANATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,"Anas platalea","Pato cuchara","O",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,"Anas clypeata","Pato cuchara boreal","j",,"ANATIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+53,"Netta erythrophthalma","Pato castaño","e-g",,"ANATIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+54,"Netta peposaca","Pato picazo","O",,"ANATIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,"Mergus octosetaceus","Pato serrucho","a","CR","ANATIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,"Heteronetta atricapilla","Pato cabeza negra","O",,"ANATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,"Nomonyx dominicus","Pato fierro","N",,"ANATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,"Oxyura jamaicensis","Pato zambuIlidor grande","E-I-J",,"ANATIDAE","2.0",,,,,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,"Oxyura vittata","Pato zambullidor chico","O",,"ANATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,"Penelope superciliaris","Yacupoí","A",,"CRACIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,"Penelope dabbenei","Pava de monte alisera","D",,"CRACIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,"Penelope obscura","Pava de monte común","a-b-D-g",,"CRACIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+63,"Pipile jacutinga","Yacutinga","A","EP","CRACIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,"Ortalis canicollis","Charata","B-C-g",,"CRACIDAE","4.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+65,"Crax fasciolata","Muitú","a-B","Vu","CRACIDAE","1.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,"Callipepla californica","Codorniz de California","f-I-j",,"ODONTOPHORIDAE","4.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+67,"Odontophorus capueira","Urú","A",,"ODONTOPHORIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,"Lophura nycthemera","Faisán plateado","I","(In)","PHASIANIDAE","1.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,"Rollandia rolland","Macá común","O",,"PODICIPEDIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,"Tachybaptus dominicus","Macá gris","N",,"PODICIPEDIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,"Podilymbus podiceps","Macá pico grueso","O",,"PODICIPEDIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,"Podiceps major","Macá grande","O",,"PODICIPEDIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,"Podiceps occipitalis","Macá plateado","O",,"PODICIPEDIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,"Podiceps juninensis","Macá andino","E","CA","PODICIPEDIDAE","1.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,"Podiceps gallardoi","Macá tobiano","J-L","CR","PODICIPEDIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,"Phoenicopterus chilensis","Flamenco austral","O","CA","PHOENICOPTERIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,"Phoenicoparrus andinus","Parina grande","E-g-h","VU","PHOENICOPTERIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+78,"Phoenicoparrus jamesi","Parina chica","E-g-h","CA","PHOENICOPTERIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+79,"Aptenodytes patagonicus","Pingüino rey","I-M",,"SPHENISCIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,"Aptenodytes forsteri","Pingüino emperador","M",,"SPHENISCIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,"Pygoscelis papua","Pingüino de vincha","L-M","CA","SPHENISCIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,"Pygoscelis antarcticus","Pingüino de barbijo","M",,"SPHENISCIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,"Pygoscelis adelie","Pingüino ojo blanco","M","CA","SPHENISCIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,"Spheniscus magellanicus","Pingüino patagónico","L-M",,"SPHENISCIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,"Eudyptes chrysolophus","Pingüino frente dorada","I-M",,"SPHENISCIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,"Eudyptes chrysocome","Pingüino penacho amarillo","LM",,"SPHENISCIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,"Diomedea epomophora","Albatros real","L-M",,"DIOMEDEIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,"Diomedea exulans","Albatros errante","L",,"DIOMEDEIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,"Diomedea dabbenena","Albatros de Tristán","L",,"DIOMEDEIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,"Diomedea sanfordi","Albatros real del norte","L",,"DIOMEDEIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,"Phoebetria fusca","Albatros oscuro","L",,"DIOMEDEIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,"Phoebetria palpebrata","Albatros manto claro","L",,"DIOMEDEIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,"Thalassarche chlororhynchos","Albatros pico fino","L",,"DIOMEDEIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,"Thalassarche melanophris","albatros ceja negra","L-M",,"DIOMEDEIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,"Thalassarche chrysostoma","Albatros cabeza gris","L",,"DIOMEDEIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,"Thalassarche bulleri","Albatros del Pacífico","l",,"DIOMEDEIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+97,"Thalassarche cauta","Albatros corona blanca","l",,"DIOMEDEIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+98,"Macronectes giganteus","Petrel gigante común","K-L-M",,"PROCELLARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,"Macronectes halli","Petrel gigante oscuro","K-L-M",,"PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,"Fulmarus glacialoides","Petrel plateado","K-L-M",,"PROCELLARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,"Thalassoica antarctica","Petrel antártico","L-M",,"PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,"Daption capense","Petrel damero","L-M",,"PROCELLARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,"Pagodroma nivea","Petrel de las nieves","M",,"PROCELLARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,"Aphrodroma brevirostris","Petrel pizarra","l","(M)","PROCELLARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+105,"Pterodroma mollis","Petrel collar gris","l","(M)","PROCELLARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+106,"Pterodroma incerta","Petrel cabeza parda","l","(M)","PROCELLARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+107,"Pterodroma lessonii","Petrel cabeza blanca","l","(M)","PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+108,"Halobaena caerulea","Petrel azulado","l","(M)","PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+109,"Pachyptila turtur","Prión pico corto","L-M",,"PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,"Pachyptila vittata","Prión pico ancho","l","(M)","PROCELLARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+111,"Pachyptila desolata","Prión pico grande","L-M",,"PROCELLARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,"Pachyptila belched","Prión pico fino","L-M",,"PROCELLARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,"Procellaria cinerea","Petrel ceniciento","l","(M) CA","PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+114,"Procellaria aequinoctialis","Petrel barba blanca","L-M","Vu","PROCELLARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,"Procellaria conspicillata","Petrel de anteojos","L","(M)Vu","PROCELLARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,"Procellaria westlandica","Petrel negro","L","(M)","PROCELLARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,"Calonectris diomedea","Pardela grande","L","(M)","PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,"Calonectris edwardsii","Pardela de Cabo Verde","L","(M)","PROCELLARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,"Ardenna grisea","Pardela oscura","L-M","CA","PROCELLARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,"Ardenna gravis","Pardela cabeza negra","L-M",,"PROCELLARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,"Puffinus puffinus","Pardela boreal","I","(M)","PROCELLARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,"Puffinus assimilis","Pardela chica","I","(M)","PROCELLARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,"Pelecanoides urinatrix","Yunco común","L-M",,"PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,"Pelecanoides georgicus","Yunco geórgico","L-M",,"PROCELLARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,"Pelecanoides magellani","Yunco magallánico","L-M",,"PROCELLARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,"Fregetta grallaria","Paiño vientre blanco","l","(M)","HYDROBATIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+127,"Fregetta tropica","Paíño vientre negro","l","(M)","HYDROBATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+128,"Oceanites oceanicus","Paíño común","L-M",,"HYDROBATIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,"Garrodia nereis","Paíño gris","l",,"HYDROBATIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+130,"Pelagodroma marina","Paíño cara blanca","l",,"HYDROBATIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+131,"Ciconia maguari","Cigueña americana","N-o",,"CICONIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+132,"Jabiru mycteria","Yabirú","a-B-C-g-h",,"CICONIIDAE","3.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+133,"Mycteria americana","Tuyuyú","N",,"CICONIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,"Fregata magnificens","Ave fragata","K-L","(M)","FREGATIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,"Sula leucogaster","Piquero pardo","k-I","(M)","SULIDAE","1.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+136,"Phalacrocorax gaimardi","Cormorán gris","L","CA","PHALACROCORACIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,"Phalacrocorax brasilianus","Biguá","O",,"PHALACROCORACIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,"Phalacrocorax magellanicus","Cormorán cuello negro","L",,"PHALACROCORACIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,"Phalacrocorax bougainvillii","Guanay","l","CA","PHALACROCORACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+140,"Phalacrocorax atriceps","Cormorán imperial","I-L-M",,"PHALACROCORACIDAE","5.0",,,,,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,"Phalacrocorax bransfieldensis","Cormorán antartico","M",,"PHALACROCORACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,"Anhinga anhinga","Aninga","N",,"ANHINGIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,"Pelecanus thagus","Pelícano pardo","k","(M)","PELECANIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+144,"Tigrisoma lineatum","Hocó colorado","N",,"ARDEIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,"Tigrisoma fasciatum","Hocó oscuro","a-b-D",,"ARDEIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,"Cochlearius cochlearius","Garza cucharona","a-B",,"ARDEIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,"Botaurus pinnatus","Mirasol grande","B-h",,"ARDEIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+148,"Ixobrychus exilis","Mirasol chico","B",,"ARDEIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,"Ixobrychus involucris","Mirasol común","B-C-F-G-H-j",,"ARDEIDAE","3.0",,,,,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+150,"Nycticorax nycticorax","Garza bruja","O",,"ARDEIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,"Butorides striata","Garcita azulada","N",,"ARDEIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,"Bubulcus ibis","Garcita bueyera","O",,"ARDEIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,"Ardea cocoi","Garza mora","O",,"ARDEIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,"Ardea alba","Garza blanca","O",,"ARDEIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,"Syrigma sibilatrix","Chiflón","N",,"ARDEIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,"Pilherodius pileatus","Garza real","a-b-d",,"ARDEIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+157,"Egretta thula","Garcita blanca","O",,"ARDEIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,"Egretta caerulea","Garza azul","n-o",,"ARDEIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+159,"Plegadis chihi","Cuervillo de cañada","N-o",,"THRESKIORNITHIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+160,"Plegadis ridgwayi","Cuervillo puneño","E",,"THRESKIORNITHIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,"Mesembrinibis cayennensis","Tapicurú","A-b",,"THRESKIORNITHIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,"Phimosus infuscatus","Cuervillo cara pelada","N",,"THRESKIORNITHIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,"Theristicus caerulescens","Bandurria mora","N",,"THRESKIORNITHIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,"Theristicus caudatus","Bandurria boreal","B-C-D-G-h",,"THRESKIORNITHIDAE","3.0",,,,,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+165,"Theristicus melanopis","Bandurria austral","E-F-G-H-I-J-K",,"THRESKIORNITHIDAE","4.0",,,,,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,"Platalea ajaja","Espálula rosada","N",,"THRESKIORNITHIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,"Cathartes aura","Jote cabeza colorada","O",,"CATHARTI DAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,"Cathartes burrovianus","Jote cabeza amarilla","A-B-c-",,"CATHARTI DAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+169,"Cathartes melambrotus","Jote cabeza amarilla grande","d","(M?)","CATHARTI DAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+170,"Coragyps atratus","Jote cabeza negra","O",,"CATHARTI DAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,"Sarcoramphus papa","Jote real","A-b-C-D",,"CATHARTI DAE","3.0",,,,,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,"Vultur gryphus","Cóndor andino","D-E-I-J-K-M","CA","CATHARTI DAE","3.0",,,,,0,0,0,1,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,"Pandion haliaetus","Aguila pescadora","n-o","(M)","PANDIONIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+174,"Elanus leucurus","Milano blanco","N-O",,"ACCIPITRIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,"Gampsonyx swainsonii","Milano chico","a-B-C-d-g",,"ACCIPITRIDAE","2.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+176,"Chondrohierax uncinatus","Milano pico garfio","A-B-D",,"ACCIPITRIDAE","2.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,"Leptodon cayanensis","Milano cabeza gris","A-B",,"ACCIPITRIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,"Elanoides forficatus","Milano tijereta","A-b-c-D-h",,"ACCIPITRIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+179,"Morphnus guianensis","Aguila monera","a","CA","ACCIPITRIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,"Harpia harpyja","Harpía","A","CA","ACCIPITRIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,"Spizaetus tyrannus","Aguila crestuda negra","A",,"ACCIPITRIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,"Spizaetus melanoleucus","Aguila viuda","A-D",,"ACCIPITRIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,"Spizaetus ornatus","Aguila crestuda real","A-b-D","CA","ACCIPITRIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,"Spizaetus isidori","Aguila poma","D","Vu","ACCIPITRIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,"Busarellus nigricollis","Aguilucho pampa","a-B-C-d-G-h",,"ACCIPITRIDAE","3.0",,,,,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+186,"Rostrhamus sociabilis","Caracolero","N",,"ACCIPITRIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,"Harpagus diodon","Milano de corbata","A-b-D",,"ACCIPITRIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,"Ictinia mississippiensis","Milano boreal","a-B-C-D","(M)","ACCIPITRIDAE","2.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,"lctinia plumbea","Milano plomizo","A-B-C-D",,"ACCIPITRIDAE","4.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,"Circus cinereus","Gavilan ceniciento","O",,"ACCIPITRIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,"Circus buffoni","Gavilan planeador","N-o",,"ACCIPITRIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+192,"Accipiter poliogaster","Esparvero grande","A","CA","ACCIPITRIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,"Accipiter superciliosus","Esparvero chico","A",,"ACCIPITRIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,"Accipiter striatus","Esparvero común","N",,"ACCIPITRIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,"Accipiter bicolor","Esparvero variado","N",,"ACCIPITRIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,"Accipiter chilensis","Esparvero austral","e-I-J",,"ACCIPITRIDAE","1.0",,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+197,"Geranospiza caerulescens","Gavilan patas largas","A-B-C-D-G",,"ACCIPITRIDAE","3.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,"Buteogallus meridionalis","Aguilucho colorado","N",,"ACCIPITRIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,"Buteogallus urubitinga","Aguila negra","N",,"ACCIPITRIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,"Buteogallus solitarius","Aguila solitaria","D","CA","ACCIPITRIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,"Buteogallus coronatus","Aguila coronada","B-C-D- F-G-h","EP","ACCIPITRIDAE","3.0",,,,,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+202,"Rupomis magnirostris","Taguató","N-o",,"ACCIPITRIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+203,"Parabuteo unicinctus","Gavilán mixto","O",,"ACCIPITRIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,"Parabuteo Ieucorrhous","Taguató negro","D",,"ACCIPITRIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,"Geranoaetus albicaudatus","Aguilucho alas largas","N-o",,"ACCIPITRIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+206,"Geranoaetus polyosoma","Aguilucho común","O",,"ACCIPITRIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,"Geranoaetus melanoleucus","Aguila mora","O",,"ACCIPITRIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,"Pseudastur polionotus","Aguilucho blanco","a",,"ACCIPITRIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,"Buteo nitidus","Aguilucho gris","a-b",,"ACCIPITRIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,"Buteo platypterus","Aguilucho alas anchas","D-b","(M)","ACCIPITRIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,"Buteo albigula","Aguilucho andino","D-e-I",,"ACCIPITRIDAE","2.0",,,,,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+212,"Buteo brachyurus","Aguilucho cola corta","A-B-C-D",,"ACCIPITRIDAE","2.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,"Buteo swainsoni","Aguilucho langostero","N","(M)","ACCIPITRIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,"Buteo albonotatus","Aguilucho negro","a-B-C-D",,"ACCIPITRIDAE","2.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,"Buteo ventralis","Aguilucho cola rojiza","l","Vu","ACCIPITRIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+216,"Aramus guarauna","Carau","N",,"ARAMIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,"Cotumicops notatus","Burrito enano","n-o-f-h-i-J","Vu","RALLIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,1
+218,"Rallus anctarticus","Gallineta chica","f-h-i-j",,"RALLIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0
+219,"Aramides ypecaha","Ipacaá","N",,"RALLIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,"Aramides cajaneus","Chiricote","N",,"RALLIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,"Aramides saracura","Saracura","A",,"RALLIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,"Laterallus melanophaius","Burrito común","N",,"RALLIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,"Laterallus exilis","Burrito pecho gris","A-B",,"RALLIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,"Laterallus leucopyrrhus","Burrito colorado","a-B- G-H",,"RALLIDAE","2.0",,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,"Porzana flaviventer","Burrito amarillo","B-G-H",,"RALLIDAE","2.0",,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,"Porzana spiloptera","Burrito negruzco","F-G-H","Vu","RALLIDAE","2.0",,,,,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,"Porphyriops melanops","Pollona pintada","N-o",,"RALLIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+228,"Mustelirallus albicoffis","Burrito grande","A-B-G",,"RALLIDAE","3.0",,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,"Mustelirallus erythrops","Burrito pico rojo","n",,"RALLIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+230,"Pardirallus maculatus","Gallineta overa","N",,"RALLIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,"Pardirallus nigricans","Gallineta negruzca","A",,"RALLIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,"Pardirallus sanguinolentus","Gallineta común","o",,"RALLIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+233,"Gaffinula galeata","Pollona negra","O",,"RALLIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,"Porphyrio martinicus","Pollona azul","A-B-C-G-H",,"RALLIDAE","3.0",,,,,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,"Porphyrio flavirostris","Pollona celeste","B",,"RALLIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,"Fulica armillata","Gallareta ligas rojas","O",,"RALLIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,"Fulica rufifrons","Gallareta escudete rojo","O",,"RALLIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,"Fulica gigantea","Gallareta gigante","E",,"RALLIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,"Fulica cornuta","Gallareta cornuda","E","CA","RALLIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,"Fulica ardesiaca","Gallareta andina","E",,"RALLIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,"Fulica leucoptera","Gallareta chica","O",,"RALLIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,"Heliornis fulica","Ipequí","A-B",,"HELIORNITHIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,"Pluvialis dominica","Chorlo pampa","N-o","(M)","CHARADRIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+244,"Pluvialis squatarola","Chorlo artico","E-g-K","(M)","CHARADRIIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+245,"Oreopholus ruficoffis","Chorlo cabezón","E-F-H-J",,"CHARADRIIDAE","3.0",,,,,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,"Vanellus cayanus","Chorlo de espolón","a-c","(M?)","CHARADRIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+247,"Vanellus chilensis","Tero común","O",,"CHARADRIIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,"Vanellus resplendens","Tero serrano","D-E",,"CHARADRIIDAE","4.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,"Charadrius semipalmatus","Chorlito palmado","e-K","(M)","CHARADRIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+250,"Charadrius collaris","Chorlito de collar","N",,"CHARADRIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,"Charadrius alticola","Chorlito puneño","E",,"CHARADRIIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,"Charadrius falklandicus","Chorlito doble collar","F-H-J-K-M",,"CHARADRIIDAE","4.0",,,,,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,"Charadrius modestus","Chorlito pecho canela","F-H-J-K-M",,"CHARADRIIDAE","3.0",,,,,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,"Phegornis mitchellii","Chorlito de vincha","E","CA","CHARADRIIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,"Haematopus paffiatus","Ostrero común","K",,"HAEMATOPODIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,"Haematopus ater","Ostrero negro","K-M",,"HAEMATOPODIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,"Haematopus leucopodus","Ostrero austral","J-K-M",,"HAEMATOPODIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,"Himantopus mexicanus","Tero real","N-o",,"RECURVIROSTRIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+259,"Recurvirostra andina","Avoceta andina","E",,"RECURVIROSTRIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,"Chionis albus","Paloma antartica","K-M",,"CHIONIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,"Pluvianellus socialis","Chorlito ceniciento","J-K","CA","PLUVIANELLIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,"Bartramia longicauda","Batitú","N","(M)","SCOLOPACIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,"Numenius borealis","Playero esquimal","h","(M)CR-EX","SCOLOPACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+264,"Numenius phaeopus","Playero trinador","K-M","(M)","SCOLOPACIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,"Limosa haemastica","Becasa de mar","o-K","(M)","SCOLOPACIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+270,"Arenaria interpres","Vuelvepiedras","E-K","(M)","SCOLOPACIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,"Calidris canutus","Playero rojizo","K","(M)","SCOLOPACIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,"Calidris virgata","Playero de rompiente","K","(M)","SCOLOPACIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,"Calidris himantopus","Playero picudo","O","(M)","SCOLOPACIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,"Calidris alba","Playerito blanco","E-H-K-M","(M)","SCOLOPACIDAE","3.0",,,,,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,"Calidris bairdii","Playerito unicolor","O","(M)","SCOLOPACIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,"Calidris minutilla","Playerito menor","k","(M)","SCOLOPACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+273,"Calidris fuscicollis","Playerito rabadilla blanca","O","(M)","SCOLOPACIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,"Calidris subruficollis","Playerito canela","b-G-H","(M)CA","SCOLOPACIDAE","2.0",,,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,"Calidris melanotos","Playerito pectoral","O","(M)","SCOLOPACIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,"Calidris pusilla","Playerito enano","k","(M)CA","SCOLOPACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+277,"Limnodromus griseus","Becasa gris","k","(M)","SCOLOPACIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+278,"Limnodromus scolopaceus","Becasa pico largo","k","(M)","SCOLOPACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+279,"Gallinago stricklandii","Becasina grande","i-k","CA","SCOLOPACIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+280,"Gallinago undulata","Becasina gigante","a",,"SCOLOPACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,"Gallinago paraguaiae","Becasina común","O",,"SCOLOPACIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,"Gallinago andina","Becasina andina","E",,"SCOLOPACIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,"Phalaropus tricolor","Falaropo común","O","(M)","SCOLOPACIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,"Phalaropus lobatus","Falaropo pico fino",,"(M)","SCOLOPACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,"Phalaropus fulicarius","Falaropo pico grueso","O","(M)","SCOLOPACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,"Actitis macularius","Playerito manchado","A-K","(M)","SCOLOPACIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,"Tringa solitaria","Pitotoy solitario","N-o","(M)","SCOLOPACIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+288,"Tringa melanoleuca","Pitotoy grande","O","(M)","SCOLOPACIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,"Tringa semipalmata","Playero ala blanca","K","(M)","SCOLOPACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,"Tringa flavipes","Pitotoy chico","O","(M)","SCOLOPACIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+291,"Attagis gayi","Agachona grande","E",,"THINOCORIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,"Attagis malouinus","Agachona patagónica","E-J",,"THINOCORIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,"Thinocorus orbignyianus","Agachona de collar","E-J",,"THINOCORIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,"Thinocorus rumicivorus","Agachona chica","E-F-H-J",,"THINOCORIDAE","5.0",,,,,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,"Jacana jacana","Jacana","N",,"JACANIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,"Nycticryphes semicollaris","Aguatero","N",,"ROSTRATULIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,"Stercorarius chilensis","Escúa común","K-L-m",,"STERCORARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+298,"Stercorarius maccormicki","Escúa polar","L-M",,"STERCORARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,"Stercorarius antarcticus","Escúa parda","K-L-M",,"STERCORARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,"Stercorarius pomarinus","Salteador grande","k-L","(M)","STERCORARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+301,"Stercorarius parasiticus","Salteador","K-L-m","(M)","STERCORARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+302,"Stercorarius longicaudus","Salteador coludo","k-L-m","(M)","STERCORARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+303,"Chroicocephalus serranus","Gaviota andina","E-j",,"LARIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+304,"Chroicocephalus maculipennis","Gaviota capucho café","O",,"LARIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,"Chroicocephalus cirrocephalus","Gaviota capucho gris","O",,"LARIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,"Leucophaeus scoresbii","Gaviota gris","K-L-M",,"LARIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,"Leucophaeus pipixcan","Gaviota chica","e-c-g-j-k-m",,"LARIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,1,0,0
+308,"Larus atlanticus","Gaviota cangrejera","K",,"LARIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,"Larus dominicanus","Gaviota cocinera","O",,"LARIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,"Sternula antillarum","gaviotín chico boreal","k",,"LARIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+311,"Sternula superciliaris","Gaviotín chico común","A-B-C-D-H-K",,"LARIDAE","3.0",,,,,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,"Phaetusa simplex","Atí","A-B-C-G-H",,"LARIDAE","3.0",,,,,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,"Gelochelidon nilotica","Gaviotín pico grueso","G-H-K",,"LARIDAE","3.0",,,,,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,"Chlidonias niger","gaviotín negro","c-e-h-k",,"LARIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0
+315,"Sterna hirundo","gaviotín golondrina","c-h-j-K-",,"LARIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+318,"Sterna dougallii","Gaviotin rosado","k",,"LARIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+311,"Sterna paradisaea","gaviotín ártico","k-L-m",,"LARIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+318,"Sterna hirundinacea","gaviotín sudamericano","J-K-",,"LARIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,"Sterna vittata","gaviotín antártico","k-L-M",,"LARIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+320,"Sterna forsteri","gaviotín de Forster","g",,"LARIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+321,"Sterna trudeaui","gaviotín lagunero","N-o",,"LARIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+322,"Thalasseus sandvicensis","gaviotín pico negro","K-m",,"LARIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+323,"Thalasseus maximus","gaviotín real","K",,"LARIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324,"Rynchops niger","Rayador","N-o",,"RYNCHOPIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+325,"Columba livia","Paloma doméstica","O","(In)","COLUMBIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,"Patagioenas speciosa","Paloma trocal","a-b-c",,"COLUMBIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+327,"Patagioenas picazuro","Paloma picazuro","O",,"COLUMBIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,"Patagioenas maculosa","Paloma ala manchada","O",,"COLUMBIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,"Patagioenas fasciata","Paloma nuca blanca","D",,"COLUMBIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,"Patagioenas araucana","Paloma araucana","I-j",,"COLUMBIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+331,"Patagioenas cayennensis","Paloma colorada","A-B-C-D",,"COLUMBIDAE","3.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,"Patagioenas plumbea","Paloma plomiza","a",,"COLUMBIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+333,"Geotrygon montana","Paloma montera castaña","A",,"COLUMBIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,"Geotrygon violacea","Paloma montera violacea","a",,"COLUMBIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,"Leptotila verreauxi","Yeruti común","N",,"COLUMBIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,"Leptotila rufaxilla","Yeruti colorada","A",,"COLUMBIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,"Leptotila megalura","Yeruti yungueña","D",,"COLUMBIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,"Zentrygon frenata","Paloma montera grande","D",,"COLUMBIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,"Zenaida meloda","Torcaza ala blanca","E-f",,"COLUMBIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+340,"Zenaida auriculata","Torcaza común","O",,"COLUMBIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,"Columbina minuta","Torcacita enana","a-b",,"COLUMBIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,"Columbina talpacoti","Torcacita colorada","N",,"COLUMBIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+343,"Columbina squammata","Torcacita escamada","A-B",,"COLUMBIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,"Columbina picui","Torcacita común","N-o",,"COLUMBIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+345,"Claravis pretiosa","Palomita azulada","A-B-C-D","CR","COLUMBIDAE","3.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,"Claravis geoffroyi","Palomita morada","a",,"COLUMBIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,"Metriopelia ceciliae","Palomita moteada","E",,"COLUMBIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,"Metriopelia morenoi","Palomita ojo desnudo","E","(En)","COLUMBIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,"Metriopelia melanoptera","Palomita cordillerana","E-f-i-j",,"COLUMBIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0
+350,"Metriopelia aymara","Palomita dorada","E",,"COLUMBIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,"Guira guira","Pirincho","N-o",,"CUCULIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+352,"Crotophaga major","Anó grande","A-B-C-D-G-h",,"CUCULIDAE","2.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+353,"Crotophaga ani","Anó chico","N",,"CUCULIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,"Crotophaga sulcirostris","Anó pico surcado","d",,"CUCULIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+355,"Tapera naevia","Crespín","N",,"CUCULIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,"Dromococcyx phasianellus","Yasiyateré grande","A-b",,"CUCULIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,"Dromococcyx pavoninus","Yasiyateré chico","A",,"CUCULIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,"Coccycua cinerea","Cuclillo chico","N",,"CUCULIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,"Piaya cayana","Tingazú","A-B-C-D-G-H",,"CUCULIDAE","4.0",,,,,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,"Coccyzus melacoryphus","Cuclillo canela","N",,"CUCULIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,"Coccyzus americanus","Cuclillo pico amarillo","n","(M)","CUCULIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+362,"Coccyzus euleri","Cuclillo ceniciento","A-b",,"CUCULIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,"Coccyzus erythropthalmus","Cuclillo ojo colorado","d","(M)","CUCULIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+364,"Tyto alba","Lechuza de campanario","O",,"TYTONIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,"Megascops choliba","Alilicucú cornún","N",,"STRIGIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,"Megascops hoyi","Alilicucú yungueño","D",,"STRIGIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,"Megascops atricapilla","Alilicucu grande","A-b",,"STRIGIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,"Megascops sanctaecatarinae","Alilicucú orejudo","a",,"STRIGIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,"Pulsatrix perspicillata","Lechuzón mocho grande","b-c-D",,"STRIGIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+370,"Pulsatrix koeniswaldiana","Lechuzón mocho chico","A",,"STRIGIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,"Bubo virginianus","Ñacurutú","N",,"STRIGIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,"Bubo magellanicus","Tucúquere","c-E-F-I-J",,"STRIGIDAE","3.0",,,,,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+373,"Strix hylophila","Lechuza listada","A","CA","STRIGIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,"Strix chacoensis","Lechuza chaqueña","b-C-g",,"STRIGIDAE","3.0",,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+375,"Strix rufipes","Lechuza bataraz","I",,"STRIGIDAE","2.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,"Ciccaba virgata","Lechuza estriada","A",,"STRIGIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,"Ciccaba huhula","Lechuza negra","A-D",,"STRIGIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,"Glaucidium bolivianum","Caburé yungueno","D",,"STRIGIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+379,"Glaucidium brasilianum","Caburé chico","N",,"STRIGIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,"Glaucidium nana","Caburé grande","f-g-I-J",,"STRIGIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+381,"Athene cunicularia","Lechucita de las vizcacheras","O",,"STRIGIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,"Aegolius harrisii","Lechucita canela","A-b-D",,"STRIGIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,"Asio clamator","Lechuzón orejudo","N",,"STRIGIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,"Asio stygius","Lechuzón negruzco","A-b-D",,"STRIGIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,"Asio flammeus","Lechuzón de campo","O",,"STRIGIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,"Nyctibius aethereus","Urutaú coludo","A",,"NYCTIBIIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,"Nyctibius griseus","Urutaú común","A-B-C-D-G-h",,"NYCTIBIIDAE","3.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+388,"Chordeiles nacunda","Ñacundá","N-o",,"CAPRIMULGIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+389,"Chordeiles pusillus","Añapero chico","A",,"CAPRIMULGIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,"Chordeiles acutipennis","Añapero mediano","c","(M)","CAPRIMULGIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+391,"Chordeiles minor","Añapero","N","(M)","CAPRIMULGIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,"Lurocalis semitorquatus","Añapero castaño","A-b-D",,"CAPRIMULGIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,"Systellura longirostris","Atajacaminos ñañarca","O",,"CAPRIMULGIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,"Nyctidromus albicollis","Curiango","A-B-d-g",,"CAPRIMULGIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+395,"Eleothreptus anomalus","Atajacaminos ala negra","A-B-g-h","CA","CAPRIMULGIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+396,"Uropsalis lyra","Atajacaminos lira","D",,"CAPRIMULGIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,"Setopagis parvula","Atajacaminos Chico","N",,"CAPRIMULGIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,"Hydropsalis maculicaudus","Atajacaminos enano","a",,"CAPRIMULGIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,"Hydropsalis torquata","Atajacaminos tijera","N",,"CAPRIMULGIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,"Macropsalis forcipata","Atajacaminos coludo","A",,"CAPRIMULGIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,"Nyctiphrynus ocellatus","Atajacaminos ocelado","A",,"CAPRIMULGIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,"Antrostomus sericocaudatus","Atajacaminos oscuro","A",,"CAPRIMULGIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,"Antrostomus rufus","Atajacaminos colorado","A-b-D",,"CAPRIMULGIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,"Cypseloides rothschildi","Vencejo pardusco","D","CA","APODIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,"Cypseloides fumigatus","Vencejo negruzco","a",,"APODIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,"Cypseloides senex","Vencejo de cascada","A",,"APODIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,"Streptoprocne zonaris","Vencejo de collar","N",,"APODIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,"Streptoprocne biscutata","Vencejo nuca blanca","a",,"APODIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,"Chaetura cinereiventris","Vencejo chico","A",,"APODIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,"Chaetura pelagica","Vencejo de chimenea","d","(M)","APODIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+411,"Chaetura meridionalis","Vencejo de tormenta","A-B-C-D",,"APODIDAE","4.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,"Tachornis squamata","Vencejo tijereta","a","(M?)","APODIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,"Aeronautes montivagus","Vencejo montañés","D","(M)","APODIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,"Aeronautes andecolus","Vencejo blanco","D-E-F",,"APODIDAE","4.0",,,,,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,"Florisuga fusca","Picaflor negro","A-g-h",,"TROCHILIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+418,"Florisuga mellivora","Picaflor cuello blanco","h",,"TROCHILIDAE",,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+417,"Phaethomis pretrei","Ermitaño canela","A-D",,"TROCHILIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,"Phaethornis eurynome","Ermitaño escamado","A",,"TROCHILIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,"Colibri coruscans","Colibrí grande","D-E",,"TROCHILIDAE","4.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,"Colibri serrirostris","Colibrí mediano","A-D",,"TROCHILIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,"Polytmus guainumbi","Picaflor de antifaz","A-B",,"TROCHILIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,"Chrysolampis mosquitus","Picaflor topacio","a",,"TROCHILIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,"Anthracothorax nigricollis","Picaflor vientre negro","A-B-g",,"TROCHILIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+424,"Sephanoides sephaniodes","Picaflor rubi","c-h-I-j",,"TROCHILIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+425,"Lophornis chalybeus","Coqueta verde","a-b-h",,"TROCHILIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+426,"Adelomyia melanogenys","Picaflor yungueño","D",,"TROCHILIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,"Sappho sparganurus","Picaflor cometa","C-D-",,"TROCHILIDAE","5.0",,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,"Oreotrochilus estella","Picaflor puneño","E",,"TROCHILIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,"Oreotrochilus leucopleurus","Picaflor andino","E-j",,"TROCHILIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+430,"Oreotrochilus adela","Picaflor andino castaño","E","CA","TROCHILIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+431,"Eriocnemis glaucopoides","Picaflor frente azul","D",,"TROCHILIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+432,"Patagona gigas","Picaflor gigante","c-d-E-f-h-i",,"TROCHILIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0
+433,"Heliomaster longirostris","Picaflor picudo","c",,"TROCHILIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+434,"Heliomaster squamosus","Picaflor escamado","a",,"TROCHILIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,"Heliomaster furcifer","Picaflor de barbijo","N",,"TROCHILIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,"Microstilbon burmeisteri","Picaflor enano","D",,"TROCHILIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,"Calliphlox amethystina","Picaflor amatista","A",,"TROCHILIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+438,"Chlorostilbon lucidus","Picaflor común","N",,"TROCHILIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,"Stephanoxis loddigesii","Picaflor copetón","A",,"TROCHILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,"Eupetomena macroura","Picaflor tijera","A",,"TROCHILIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,"Thalurania furcata","Picaflor zafiro","D-A",,"TROCHILIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,"Thalurania glaucopis","Picaflor corona violácea","A",,"TROCHILIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,"Leucochloris albicollis","Picaflor garganta blanca","A-b-G-H",,"TROCHILIDAE","3.0",,,,,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,"Amazilia chionogaster","Picaflor vientre blanco","D",,"TROCHILIDAE","5.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,"Amazilia versicolor","Picaflor esmeralda","A",,"TROCHILIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+446,"Amazilia lactea","Picaflor garganta azul","a",,"TROCHILIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,"Hylocharis sapphirina","Picaflor cola castaña","a-b",,"TROCHILIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+448,"Hylocharis cyanus","Picaflor lazulita","a",,"TROCHILIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+449,"Hylocharis chrysura","Picaflor bronceado","A-B-C-D-H",,"TROCHILIDAE","4.0",,,,,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,"Trogon curucui","Surucuá aurora","b-c-D",,"TROGONIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+451,"Trogon surrucura","Surucuá común","A-B-C",,"TROGONIDAE","4.0",,,,,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,"Trogon rufus","Surucuá amarillo","A",,"TROGONIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,"Megaceryle torquata","Martín pescador grande","O",,"ALCEDINIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,"Chloroceryle amazona","Martín pescador mediano","A-B-C-D-G-H",,"ALCEDINIDAE","4.0",,,,,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,"Chloroceryle americana","Martín pescador chico","A-B-C-D-G-H",,"ALCEDINIDAE","4.0",,,,,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,"Chloroceryle aenea","Martín pescador enano","a-b",,"ALCEDINIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,"Baryphthengus ruficapillus","Yeruvá","A",,"MOMOTIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,"Momotus momota","Burgo","D",,"MOMOTIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,"Notharchus swainsoni","Chacurú grande","A",,"GALBULIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,"Nystalus chacuru","Chacurú cara negra","A",,"GALBULIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,"Nystalus maculatus","Durmilí","B-C-D-f-g",,"GALBULIDAE","3.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+462,"Nonnula rubecula","Chacurú chico","A","O","GALBULIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,"Ramphastos toco","Tucán grande","A-B-C-D",,"RAMPHASTIDAE","4.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,"Ramphastos dicolorus","Tucán pico verde","A",,"RAMPHASTIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,"Selenidera maculirostris","Arasarí chico","A",,"RAMPHASTIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,"Pteroglossus bailloni","Arasarí banana","A","CA","RAMPHASTIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+467,"Pteroglossus castanotis","Arasarí fajado","A",,"RAMPHASTIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,"Picumnus cirratus","Carpinterito común","A-B-C-D-G-h",,"PICIDAE","2.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+469,"Picumnus dorbignyanus","Carpinterito manchado","d","O","PICIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+470,"Picumnus temminckii","Carpinterito cuello canela","A",,"PICIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,"Picumnus nebulosus","Carpinterito ocráceo","A","CA","PICIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,"Melanerpes candidus","Carpintero blanco","B-C-G-H",,"PICIDAE","3.0",,,,,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+473,"Melanerpes flavifrons","Carpintero arcoiris","A",,"PICIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,"Melanerpes cactorum","Carpintero del cardón","B-C-D-F-G-h",,"PICIDAE","4.0",,,,,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+475,"Picoides fumigatus","Carpintero oliva oscuro","D",,"PICIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,"Veniliomis spilogaster","Carpintero oliva manchado","A-g",,"PICIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+477,"Veniliomis mixtus","Carpinterito bataraz chico","N-o",,"PICIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+478,"Veniliomis lignarius","Carpinterito bataraz austral","d-I",,"PICIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+479,"Veniliomis passerinus","Carpintero oliva chico","B-C-g",,"PICIDAE","3.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+480,"Veniliomis frontalis","Carpintero oliva yungueño","D",,"PICIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+481,"Piculus chrysochloros","Carpintero dorado común","B-c",,"PICIDAE","4.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+482,"Piculus aurulentus","Carpintero dorado verdoso","A","CA","PICIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,"Colaptes rubiginosus","Carpintero dorado gris","D",,"PICIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,"Colaptes melanochloros","Carpintero real","N-o",,"PICIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+485,"Colaptes pitius","Carpintero pitío","I-j",,"PICIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+486,"Colaptes rupicola","Carpintero andino","d-E",,"PICIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+487,"Colaptes campestris","Carpintero campestre","N-o",,"PICIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+488,"Celeus galeatus","Carpintero cara canela","A","Vu","PICIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,"Celeus lugubris","Carpintero copete pajizo","B-c",,"PICIDAE","3.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+490,"Celeus flavescens","Carpintero copete amarillo","A",,"PICIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,"Dryocopus lineatus","Carpintero garganta estriada","A-B-D",,"PICIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+492,"Dryocopus schulzi","Carpintero negro","b-C","CA","PICIDAE","2.0",,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,"Campephilus robustus","Carpintero grande","A",,"PICIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,"Campephilus melanoleucos","Carpintero garganta negra","A-B-d",,"PICIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+495,"Campephilus leucopogon","Carpintero lomo blanco","a- B-C-",,"PICIDAE","4.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,"Campephilus magellanicus","Carpintero gigante","I",,"PICIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+497,"Cariama cristata","Chuña patas rojas","B-C-D",,"CARIAMIDAE","3.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,"Chunga burmeisteri","Chuña patas negras","C-F-g",,"CARIAMIDAE","3.0",,,,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+499,"Herpetotheres cachinnans","Guaicurú","A-B-c",,"FALCONIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+500,"Micrastur ruficollis","Halcón montés chico","A-b-",,"FALCONIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,"Micrastur semitorquatus","Halcón montés grande","A-B-",,"FALCONIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,"Spiziapteryx circumcincta","Halconcito gris","b-C-F-G-h",,"FALCONIDAE","3.0",,,,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+503,"Caracara plancus","Carancho","O",,"FALCONIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,"Phalcoboenus megalopterus","Matamico andino","E",,"FALCONIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,"Phalcoboenus albogularis","Matamico blanco","e-i-J",,"FALCONIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+506,"Phalcoboenus australis","Matamico grande","K-M","CA","FALCONIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,"Milvago chimachima","Chimachima","A-B-c-G",,"FALCONIDAE","3.0",,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+500,"Milvago chimango","Chimango","O",,"FALCONIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,"Falco sparverius","Halconcito colorado","O",,"FALCONIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,"Falco rufigularis","Halcón negro chico","A-B-C-D",,"FALCONIDAE","3.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+511,"Falco deiroleucus","Halcón negro grande","a-b-D","CA","FALCONIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,"Falco femoralis","Halcón plomizo","O",,"FALCONIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,"Falco peregrinus","Halcón peregrino","O","(M)","FALCONIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+514,"Psilopsiagon aymara","Catita serrana grande","d-E",,"PSITTACIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+515,"Psilopsiagon aurifrons","Catita serrana chica","E",,"PSITTACIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,"Bolborhynchus orbygnesius","Catita andina","E",,"PSITTACIDAE","1.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+517,"Myiopsitta monachus","Cotorra común","N-o",,"PSITTACIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+518,"Brotogeris chiriri","Catita chirirí","a-B-c-h",,"PSITTACIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+518,"Pionopsitta pileata","Catita cabeza roja","A",,"PSITTACIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,"Pionus maximiliani","Loro maitaca","A-B-c-D",,"PSITTACIDAE","4.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+521,"Amazona vinacea","Loro vinoso","A","En","PSITTACIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,"Amazona tucumana","Loro alisero","D","Vu","PSITTACIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,"Amazona pretrei","Charao","a",,"PSITTACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,"Amazona aestiva","Loro hablador","B-C-D",,"PSITTACIDAE","3.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+525,"Forpus xanthopterygius","Catita enana","A-B",,"PSITTACIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+526,"Pyrrhura frontalis","Chiripepé cabeza verde","A-B",,"PSITTACIDAE","4.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,"Pyrrhura molinae","Chiripepé cabeza parda","c-D",,"PSITTACIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+528,"Enicognathus ferrugineus","Cachaña","I",,"PSITTACIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+529,"Enicognathus leptorhynchus","Choroy","i","(M)","PSITTACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+530,"Cyanoliseus patagonus","Loro barranquero","E-F-G-h-i",,"PSITTACIDAE","4.0",,,,,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+531,"Anodorhynchus glaucus","Guacamayo azúl","b-g","CR-EX","PSITTACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+532,"Eupsittula aurea","Calancate frente dorada","B",,"PSITTACIDAE","1.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+533,"Aratinga nenday","Ñanday","B-c-h",,"PSITTACIDAE","3.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+534,"Primolius maracana","Maracana lomo rojo","a","EX(A)","PSITTACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,"Primolius auricollis","Maracana cuello dorado","D",,"PSITTACIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,"Ara militaris","Guacamayo verde","D","Vu","PSITTACIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+537,"Ara chloropterus","Guacamayo rojo","a-b","EX","PSITTACIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+538,"Thectocercus acuticaudatus","Calancate cabeza azul","B-C-F-G-h",,"PSITTACIDAE","4.0",,,,,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+539,"Psittacara mitratus","Calancate cara roja","D",,"PSITTACIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,"Psittacara leucophthalmus","Calancate ala roja","A-B-c-D-G",,"PSITTACIDAE","4.0",,,,,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+541,"Hypoedaleus guttatus","Batará goteado","A",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+542,"Batara cinerea","Batará gigante","A-D",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+543,"Mackenziaena leachii","Batará pintado","A",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+544,"Mackenziaena severa","Batará copetón","A",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,"Taraba major","Chororó","a-B-C-D-G",,"THAMNOPHILIDAE","5.0",,,,,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+546,"Biatas nigropectus","Batará pecho negro","A",,"THAMNOPHILIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+547,"Thamnophilus doliatus","Choca listada","A-B-c",,"THAMNOPHILIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+548,"Thamnophilus ruficapillus","Choca corona rojiza","A-E-G-H",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+549,"Thamnophilus caerulescens","Choca común","A-B-C-D-G-h",,"THAMNOPHILIDAE","4.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+550,"Dysithamnus mentalis","Choca amarilla","A",,"THAMNOPHILIDAE","5.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+551,"Myrmorchilus strigilatus","Batará estriado","b-C-D",,"THAMNOPHILIDAE","4.0",,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+552,"Herpsilochmus atricapillus","Tiluchí plomizo","D",,"THAMNOPHILIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,"Herpsilochmus rufimarginatus","Tiluchí ala rojiza","A",,"THAMNOPHILIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,"Drymophila rubricollis","Tiluchí colorado","A",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,"Drymophila malura","Tiluchí estriado","A",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+550,"Terenura maculata","Tiluchí enano","A",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+557,"Pyriglena leucoptera","Batará negro","A",,"THAMNOPHILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+558,"Melanopareia maximiliani","Gallito de collar","B-C-D",,"MELANOPAREIIDAE","3.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+559,"Conopophaga lineata","Chupadientes","A",,"CONOPOPHAGIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+560,"Grallaria varia","Chululú pintado","A",,"GRALLARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,"Grallaria albigula","Chululú cabeza rojiza","D",,"GRALLARIIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,"Hylopezus nattereri","Chululú chico","A",,"GRALLARIIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+563,"Psilorhamphus guttatus","Gallito overo","A","CA","RHINOCRYPTIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+564,"Rhinocrypta lanceolata","Gallito copetón","C-F-G",,"RHINOCRYPTIDAE","4.0",,,,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,"Teledromas fuscus","Gallito arena","F-g","(En)","RHINOCRYPTIDAE","3.0",,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+566,"Pteroptochos castaneus","Huet-huet castaño","I",,"RHINOCRYPTIDAE","2.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,"Pteroptochos tarnii","Huet-huet","I",,"RHINOCRYPTIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,"Scelorchilus rubecula","Chucao","I",,"RHINOCRYPTIDAE","4.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+569,"Eugralla paradoxa","Churrín","I",,"RHINOCRYPTIDAE","2.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+570,"Scytalopus pachecoi","Churrín plomizo","A",,"RHINOCRYPTIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+571,"Scytalopus magellanicus","Churrín andino","I-m",,"RHINOCRYPTIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+572,"Scytalopus zimmeri","Churrín quebradeño","D-e",,"RHINOCRYPTIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+573,"Scytalopus superciliaris","Churrin ceja blanca","D-E","(En)","RHINOCRYPTIDAE","3.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,"Chamaeza campanisona","Tovaca común","A",,"FORMICARIIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+575,"Chamaeza ruficauda","Tovaca colorada","A",,"FORMICARIIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+576,"Sclerurus scansor","Raspahojas","A",,"FURNARIIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+577,"Geositta tenuirostris","Caminera picuda","E",,"FURNARIIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,"Geositta cunicularia","Caminera común","O",,"FURNARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+579,"Geositta punensis","Caminera puneña","E",,"FURNARIIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,"Geositta rufipennis","Caminera colorada","E-F-J",,"FURNARIIDAE","4.0",,,,,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+581,"Geositta antarctica","Caminera patagónica","J",,"FURNARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+582,"Geositta isabeffina","Caminera grande","E",,"FURNARIIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+583,"Sittasomus griseicapillus","Tarefero","A-B-",,"FURNARIIDAE","4.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+584,"Dendrocincla turdina","Arapasú","A",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+585,"Dendrocolaptes picumnus","Trepador colorado","b-D",,"FURNARIIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,"Dendrocolaptes platyrostris","Trepador oscuro","A-B",,"FURNARIIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,"Xiphocolaptes albicollis","Trepador garganta blanca","A",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+588,"Xiphocolaptes major","Trepador gigante","B-C-D",,"FURNARIIDAE","4.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+589,"Xiphorhynchus fuscus","Chinchero enano","A",,"FURNARIIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+590,"Campylorhamphus trochilirostris","Picapalo colorado","B-C-d",,"FURNARIIDAE","3.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+591,"Campylorhamphus falcularius","Picapalo oscuro","A",,"FURNARIIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+592,"Drymornis bridgesii","Chinchero grande","B-C-","O","FURNARIIDAE","4.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+593,"Lepidocolaptes angustirostris","Chinchero chico","N",,"FURNARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+594,"Lepidocolaptes falcinellus","Chinchero escamado","A","O","FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+595,"Xenops minutus","Picolezna chico","A",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+596,"Xenops rutilans","Picolezna rojizo","A-D",,"FURNARIIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+597,"Pygarrhichas albogularis","Picolezna patagónico","I","O","FURNARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+598,"Ochetorhynchus andaecola","Bandurrita cola castaña","E",,"FURNARIIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+599,"Ochetorhynchus ruficaudus","Bandurrita pico recto","E-J","O","FURNARIIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+600,"Ochetorhynchus phoenicurus","Bandurrita patagónica","F-J","O","FURNARIIDAE","2.0",,,,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+601,"Tarphonomus harterti","Bandurrita boliviana","E",,"FURNARIIDAE","1.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+602,"Tarphonomus certhioides","Bandurrita chaqueña","B-C-d-F-G-H","O","FURNARIIDAE","4.0",,,,,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+603,"Furnarius rufus","Hornero","N-o","O","FURNARIIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+604,"Fumarius cristatus","Hornerito copetón","C-B",,"FURNARIIDAE","3.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+605,"Lochmias nematura","Macuquito","A-D","O","FURNARIIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,"Phleocryptes melanops","Junquero","O","O","FURNARIIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,"Limnornis curvirostris","Pajonalera pico curvo","G-H",,"FURNARIIDAE","3.0",,,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+608,"Upucerthia saturatior","Bandurrita del bosque","I","O","FURNARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,"Upucerthia dumetaria","Bandurrita común","E-F-G-H-J",,"FURNARIIDAE","4.0",,,,,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,"Upucerthia validirostris","Bandurrita andina","E",,"FURNARIIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+611,"Cinclodes fuscus","Remolinera común","O",,"FURNARIIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+612,"Cinclodes antarcticus","Remolinera negra","K-M",,"FURNARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+613,"Cinclodes comechingonus","Remolinera serrana","C","(En)","FURNARIIDAE","4.0",,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+614,"Cinclodes olrogi","Remolinera chocolate","c","(En)","FURNARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+615,"Cinclodes albiventris","Remolinera acanelada","D-E",,"FURNARIIDAE","1.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+616,"Cinclodes oustaleti","Remolinera chica","E-I-J",,"FURNARIIDAE","3.0",,,,,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+617,"Cinclodes atacamensis","Remolinera castaña","D-E-C",,"FURNARIIDAE","4.0",,,,,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+618,"Cinclodes patagonicus","Remolinera araucana","I-J",,"FURNARIIDAE","5.0",,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+619,"Heliobletus contaminatus","Picolezna estriado","A",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+620,"Philydor atricapillus","Ticotico cabeza negra","A",,"FURNARIIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+621,"Philydor rufum","Ticotico grande","A",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+622,"Anabacerthia amaurotis","Ticotico ceja blanca","A","CA","FURNARIIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+623,"Anabacerthia lichtensteini","Ticotico ocráceo","A",,"FURNARIIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+624,"Syndactyla rufosuperciliata","Ticotico común","A-B-D",,"FURNARIIDAE","4.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+625,"Clibanomis dendrocolaptoides","Tacuarero","A","CA","FURNARIIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+626,"Automolus leucophthalmus","Ticotico ojo blanco","A",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+627,"Margarornis squamiger","Ticotico perlado","d",,"FURNARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+628,"Aphrastura spinicauda","Rayadito","I-j",,"FURNARIIDAE","6.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+629,"Sylviorthorhynchus desmursii","Colilarga","I-j",,"FURNARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+630,"Leptasthenura fuliginiceps","Coludito canela","D-E",,"FURNARIIDAE","3.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+631,"Leptasthenura yanacensis","Coludito puneño","D-E","CA","FURNARIIDAE","2.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,"Leptasthenura platensis","Coludito copetón","N",,"FURNARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+633,"Leptasthenura aegithaloides","Coludito cola negra","E-F-g-I-J",,"FURNARIIDAE","4.0",,,,,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+634,"Leptasthenura setaria","Coludito de los pinos","A","CA","FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+635,"Phacellodomus rufifrons","Espinero frente rojiza","D-C",,"FURNARIIDAE","4.0",,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,"Phacellodomus striaticeps","Espinero andino","d-E",,"FURNARIIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+637,"Phacellodomus sibilatrix","Espinero chico","B-C-d-G",,"FURNARIIDAE","3.0",,,,,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+638,"Phacellodomus maculipectus","Espinero serrano","D",,"FURNARIIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+639,"Phacellodomus striaticollis","Espinero pecho manchado","B-C-G-H",,"FURNARIIDAE","4.0",,,,,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+640,"Phacellodomus ruber","Espinero grande","B-c-G-h",,"FURNARIIDAE","4.0",,,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+641,"Phacellodomus ferrugineigula","Espinero pecho naranja","a",,"FURNARIIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+642,"Anumbius annumbi","Leñatero","N",,"FURNARIIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,"Coryphistera alaudina","Crestudo","B-C-d-f-G-h",,"FURNARIIDAE","5.0",,,,,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+644,"Asthenes dorbignyi","Canastero rojizo","E-F",,"FURNARIIDAE","4.0",,,,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+645,"Asthenes baeri","Canastero chaqueño","B-C-G-h",,"FURNARIIDAE","4.0",,,,,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+646,"Asthenes hudsoni","Espartillero pampeano","H-g","CA","FURNARIIDAE","3.0",,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+647,"Asthenes anthoides","Espartillero austral","I-J",,"FURNARIIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+648,"Asthenes maculicauda","Espartillero estriado","E",,"FURNARIIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+649,"Asthenes sclateri","Espartillero serrano","E",,"FURNARIIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+650,"Asthenes modesta","Canastero palido","E-J-h",,"FURNARIIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+651,"Asthenes pyrrholeuca","Canastero coludo","O",,"FURNARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,"Asthenes heterura","Canastero quebradeño","E-d","CA","FURNARIIDAE","1.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+653,"Limnoctites rectirostris","Pajonalera pico recto","g-H","CA","FURNARIIDAE","2.0",,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+654,"Cranioleuca sulphurifera","Curutié ocráceo","G-H",,"FURNARIIDAE","3.0",,,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+655,"Cranioleuca pyrrhophia","Curutié blanco","N",,"FURNARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+656,"Cranioleuca obsoleta","Curutié oliváceo","A-b",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,"Pseudasthenes humicola","Canastero estriado","e",,"FURNARIIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+658,"Pseudasthenes patagonica","Canastero patagónico","F-j","(En)","FURNARIIDAE","3.0",,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+659,"Pseudasthenes steinbachi","Canastero castaño","F","(En)","FURNARIIDAE","2.0",,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+660,"Spartonoica maluroides","Espartillero enano","B-g-H","CA","FURNARIIDAE","3.0",,,,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+661,"Pseudoseisura lophotes","Cacholote castano","B-C-G",,"FURNARIIDAE","4.0",,,,,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,"Pseudoseisura gutturalis","Cacholote pardo","F-j","(En)","FURNARIIDAE","3.0",,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+663,"Schoeniophylax phryganophilus","Chotoy","B-C-G-H",,"FURNARIIDAE","4.0",,,,,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+664,"Certhiaxis cinnamomeus","Curutié colorado","A-B-C-d-G-H","O","FURNARIIDAE","4.0",,,,,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+665,"Synallaxis scutata","Pijuí canela","D","O","FURNARIIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+666,"Synallaxis cinerascens","pijuí negruzco","A",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+667,"Synallaxis ruficapifia","pijuí corona rojiza","A",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+668,"Synallaxis spixi","pijuí plomizo","A-b-G-H",,"FURNARIIDAE","3.0",,,,,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+669,"Synallaxis albescens","Pijuí cola parda","N",,"FURNARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+670,"Synallaxis frontalis","Pijuí frente gris","N",,"FURNARIIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+671,"Synallaxis azarae","Pijuí ceja canela","D",,"FURNARIIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+672,"Phyllomyias burmeisteri","Mosqueta pico curvo","A-D","O","TYRANNIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+673,"Phyllomyias virescens","Mosqueta corona oliva","A",,"TYRANNIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+674,"Phyllomyias sclateri","Mosqueta corona gris","D",,"TYRANNIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+675,"Phyllomyias fasciatus","Mosqueta olivacea","A","O","TYRANNIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+676,"Myiopagis caniceps","Fiofío ceniciento","A-b-D",,"TYRANNIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,"Myiopagis viridicata","Fiofío corona dorada","A-B-D",,"TYRANNIDAE","4.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+678,"Elaenia flavogaster","Fiofío copetón","A-b","O","TYRANNIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+679,"Elaenia spectabilis","Fiofío grande","A-B-C-G-H",,"TYRANNIDAE","3.0",,,,,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,"Elaenia albiceps","Fiofío silbón","o","O","TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+681,"Elaenia parvirostris","Fiofío pico corto","N",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+682,"Elaenia mesoleuca","Fiofio oliváceo","A",,"TYRANNIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+683,"Elaenia strepera","Fiofio plomizo","D",,"TYRANNIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+684,"Elaenia chiriquensis","Fiofio belicoso","A-c",,"TYRANNIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+685,"Elaenia obscura","Fiofio oscuro","A-D",,"TYRANNIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+686,"Camptostoma obsoletum","Piojito silbón","N",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+687,"Suirirí Suirirí","Suirirí común","N",,"TYRANNIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+688,"Mecocerculus hefimayri","Piojito de los pinos","D",,"TYRANNIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+689,"Mecocerculus leucophrys","Piojito gargantilla","D",,"TYRANNIDAE","5.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+690,"Anairetes flavirostris","Cachudito pico amarillo","C-d-E-",,"TYRANNIDAE","3.0",,,,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+691,"Anairetes parulus","Cachudito pico negro","c-E-F-",,"TYRANNIDAE","3.0",,,,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+692,"Serpophaga nigricans","Piojito gris","N",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+693,"Serpophaga subcristata","Piojito comun","N-o",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+694,"Serpophaga munda","Piojito vientre blanco","C-D-f-",,"TYRANNIDAE","1.0",,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+695,"Serpophaga griseicapifia","Piojito de Straneck","N",,"TYRANNIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,"Phaeomyias murina","Piojito pardo","A-B-",,"TYRANNIDAE","1.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+697,"Capsiempis flaveola","Mosqueta ceja amarilla","A",,"TYRANNIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,"Polystictus pectoralis","Tachuri canela","B-G-H","CA","TYRANNIDAE","3.0",,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+699,"Pseudocolopteryx sclateri","Doradito copetón","B-G-H",,"TYRANNIDAE","2.0",,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+700,"Pseudocolopteryx acutipennis","Doradito oliváceo","b-c-D-E-g-H",,"TYRANNIDAE","2.0",,,,,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+701,"Pseudocolopteryx dinelliana","Doradito pardo","b-C-g-h","CA","TYRANNIDAE","3.0",,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+702,"Pseudocolopteryx flaviventris","Doradito común","b-G-H",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,"Pseudocolopteryx citreola","Doradito limón","b-d-F-g-h",,"TYRANNIDAE","1.0",,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+704,"Coiythopis delalandi","Mosquitero","A-D",,"TYRANNIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+705,"Euscarthmus meloryphus","Barullero","N",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+706,"Stigmatura budytoides","Calandrita","C-F-G",,"TYRANNIDAE","4.0",,,,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+707,"Phylloscartes eximius","Mosqueta media luna","A","CA","TYRANNIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,"Phylloscartes ventralis","Mosqueta común","A-b-D-G-h",,"TYRANNIDAE","4.0",,,,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+709,"Phylloscartes paulista","Mosqueta oreja negra","a","CA","TYRANNIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+710,"Phylloscartes sylviolus","Mosqueta cara canela","A","CA","TYRANNIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+711,"Mionectes rufiventris","Ladrillito","A",,"TYRANNIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+712,"Leptopogon amaurocephalus","Mosqueta corona parda","A-B-D",,"TYRANNIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+713,"Sublegatus modestus","Suirirí pico corto","B-C-d-F-G",,"TYRANNIDAE","3.0",,,,,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+714,"lnezia inornata","Piojito picudo","B-C-D",,"TYRANNIDAE","3.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+715,"Tachuris rubrigastra","Tachurí sietecolores","O",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+716,"Culicivora caudacuta","Tachurí coludo","a-B","Vu","TYRANNIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+717,"Myiornis auricularis","Mosqueta enana","A",,"TYRANNIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+718,"Hemitriccus diops","Mosqueta de anteojos","A",,"TYRANNIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+719,"Hemitriccus obsoletus","Mosqueta ojo grande","A",,"TYRANNIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+720,"Hemitriccus margaritaceiventer","Mosqueta ojo dorado","B-C-D-G",,"TYRANNIDAE","3.0",,,,,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+721,"Poecilotriccus plumbeiceps","Mosqueta cabeza canela","A-b-c-D",,"TYRANNIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+722,"Todirostrum cinereum","Mosqueta amarilla","A",,"TYRANNIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+723,"Tolmomyias sulphurescens","Picochato grande","A-B-D",,"TYRANNIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+724,"Platyrinchus mystaceus","Picochato enano","A",,"TYRANNIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+725,"Platyrinchus leucoryphus","Picochato chico","a","Vu","TYRANNIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+726,"Myiophobus fasciatus","Mosqueta estriada","A-B-C-D-G-H",,"TYRANNIDAE","4.0",,,,,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+727,"Pyrrhomyias cinnamomeus","Birro chico","D",,"TYRANNIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+728,"Hirundinea ferruginea","Birro común","A-c-D-E",,"TYRANNIDAE","3.0",,,,,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+729,"Lathrotriccus euleri","Mosqueta parda","A-B-C-D-G-h",,"TYRANNIDAE","3.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+730,"Cnemotriccus  fuscatus","Mosqueta ceja blanca","A-B-D",,"TYRANNIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+731,"Empidonax alnorum","Mosqueta boreal","a-b-C","(M)","TYRANNIDAE","2.0",,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,"Contopus fumigatus","Burlisto","D",,"TYRANNIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+733,"Contopus cinereus","Burlisto chico","A-D",,"TYRANNIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+734,"Sayomis nigricans","Viudita de río","D",,"TYRANNIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+735,"Pyrocephalus rubinus","Churrinche","N-o",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+736,"Lessonia rufa","Sobrepuesto común","O",,"TYRANNIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+737,"Lessonia oreas","Sobrepuesto andino","E",,"TYRANNIDAE","1.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+738,"Knipolegus cabanisi","Viudita yungueña","D",,"TYRANNIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+739,"Knipolegus cyanirostris","Viudita pico celeste","A-b-",,"TYRANNIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+740,"Knipolegus striaticeps","Viudita chaqueña","C-b",,"TYRANNIDAE","3.0",,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+741,"Knipolegus aterrimus","Viudita común","N-o",0,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+742,"Knipolegus hudsoni","Viudita chica","C-F-g-h",,"TYRANNIDAE","2.0",,,,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+743,"Hymenops perspicillatus","Pico de plata","O",,"TYRANNIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+744,"Satrapa icterophrys","Suirirí amarillo","N","O","TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,"Muscisaxicola maculirostris","Dormilona chica","E-F-i-J","O","TYRANNIDAE","3.0",,,,,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+140,"Muscisaxicola juninensis","Dormilona puneña","E",,"TYRANNIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,"Muscisaxicola cinereus","Dormilona cenicienta","E",,"TYRANNIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+748,"Muscisaxicola flavinucha","Dormilona fraile","E","O","TYRANNIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+749,"Muscisaxicola rufivertex","Dormilona gris","E","O","TYRANNIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+750,"Muscisaxicola maclovianus","Dormilona cara negra","E-F-G-H-I-J","O","TYRANNIDAE","4.0",,,,,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+751,"Muscisaxicola albilora","Dormilona ceja blanca","I-j","O","TYRANNIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+752,"Muscisaxicola capistratus","Dormilona canela","E-J","O","TYRANNIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,"Muscisaxicola frontalis","Dormilona frente negra","E","O","TYRANNIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+754,"Agriornis montanus","Gaucho serrano","E-f-i-J",,"TYRANNIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+755,"Agriornis albicauda","Gaucho andino","E","Vu","TYRANNIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,"Agriornis fividus","Gaucho grande","I-J",,"TYRANNIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+757,"Agriornis micropterus","Gaucho común","b-E-F-G-H-J",,"TYRANNIDAE","4.0",,,,,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+758,"Agriornis murinus","Gaucho chico","b-E-F-G-h-J",,"TYRANNIDAE","3.0",,,,,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+759,"Xolmis pyrope","Diucón","I",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+700,"Xolmis cinereus","Monjita cenicienta","a-B-G-H",,"TYRANNIDAE","1.0",,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,"Xolmis coronatus","Monjita coronada","b-C-E-F-G-H",,"TYRANNIDAE","3.0",,,,,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,"Xolmis irupero","Monjita blanca","N-o",,"TYRANNIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+703,"Xolmis salinarum","Monjita salinera","C","(En)CA","TYRANNIDAE","2.0",,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+704,"Xolmis rubetra","Monjita castaña","c-F-G-H-j","(En)","TYRANNIDAE","3.0",,,,,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+765,"Xolmis dominicanus","Monjita dominica","G-H","Vu","TYRANNIDAE","2.0",,,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+706,"Myiotheretes striaticollis","Birro grande","D",,"TYRANNIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+767,"Polioxolmis rufipennis","Birro gris","d-E",,"TYRANNIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+708,"Neoxolmis rufiventris","Monjita chocolate","F-g-H-J",,"TYRANNIDAE","3.0",,,,,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+709,"Gubernetes yetapa","Yetapá grande","A",,"TYRANNIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+770,"Muscipipra vetula","Viudita coluda","A",,"TYRANNIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+771,"Fluvicola albiventer","Viudita blanca","A-B-c-d-G-H",,"TYRANNIDAE","4.0",,,,,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+772,"Fluvicola nengeta","Viudita enmascarada","A","(M?)","TYRANNIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+773,"Arundinicola leucocephala","Lavandera","A-B",,"TYRANNIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+774,"Alectrurus tricolor","Yetapa chico","a","EX(A)","TYRANNIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+775,"Alectrurus risora","Yetapa de collar","B","Vu","TYRANNIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+770,"Ochthoeca oenanthoides","Pitajo canela","d-E",,"TYRANNIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+777,"Ochthoeca leucophrys","Pitajo gris","d-E",,"TYRANNIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+778,"Colorhamphus parvirostris","Peutren","I",,"TYRANNIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+779,"Colonia colonus","Yetapa negro","A",,"TYRANNIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+780,"Machetomis rixosa","Picabuey","N-o",,"TYRANNIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+781,"Legatus leucophaius","Tuquito chico","A-B-D",,"TYRANNIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+782,"Myiozetetes similis","Benteveo mediano","A",,"TYRANNIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+783,"Pitangus sulphuratus","Benteveo común","N-o",,"TYRANNIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+784,"Pitangus lictor","Benteveo pico fino","h",,"TYRANNIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+785,"Conopias trivirgatus","Benteveo chico","A",,"TYRANNIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+786,"Myiodynastes chrysocephalus","Benteveo de barbijo","D",,"TYRANNIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+787,"Myiodynastes maculatus","Benteveo rayado","N",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+788,"Megarynchus pitangua","Pitangua","A-B-",,"TYRANNIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+789,"Empidonomus varius","Tuquito rayado","A-B-C-D-g",,"TYRANNIDAE","3.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+790,"Empidonomus aurantioatrocristatus","Tuquito gris","N",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+791,"Tyrannus melancholicus","Suirirí real","N",,"TYRANNIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+792,"Tyrannus savana","Tijereta","N-o",,"TYRANNIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+793,"Tyrannus tyrannus","Suirirí boreal","O","(M)","TYRANNIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,"Sirystes sibilator","Suirirí silbón","A",,"TYRANNIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+795,"Casiornis rufus","Burlisto castaño","a-B-C-D-g-h",,"TYRANNIDAE","2.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+796,"Myiarchus tuberculifer","Burlisto corona negra","a-D",,"TYRANNIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+797,"Myiarchus swainsoni","Burlisto pico canela","N",,"TYRANNIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,"Myiarchus ferox","Burlisto pico negro","A-B-g",,"TYRANNIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+799,"Myiarchus tyrannulus","Burlisto cola castaña","A-B-C-D-G-h",,"TYRANNIDAE","4.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+800,"Ramphotrigon megacephalum","Picochato cabezón","A",,"TYRANNIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+801,"Attila phoenicurus","Burlisto cabeza negra","a",,"TYRANNIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+802,"Oxyruncus cristatus","Picoagudo","a","(M?)","OXYRUNCIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+803,"Phytotoma rutila","Cortarramas","N-o",,"COTINGIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+804,"Phytotoma rara","Rara","I-J",,"COTINGIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+805,"Pyroderus scutatus","Yacutoro","A",,"COTINGIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+806,"Procnias nudicollis","Pajaro campana","A","(M?)Vu","COTINGIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+807,"Chiroxiphia boliviana","Bailarín yungueño","D",,"PIPRIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+808,"Chiroxiphia caudata","Bailarín azul","A",,"PIPRIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+809,"Manacus manacus","Bailarín blanco","A",,"PIPRIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+810,"Pipra fasciicauda","Bailarín naranja","A",,"PIPRIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+811,"Tityra inquisitor","Tueré chico","A-B",,"TITYRIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+812,"Tityra cayana","Tueré grande","A-B",,"TITYRIDAE","3.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+813,"Tityra semifasciata","Tueré enmascarado","A",,"TITYRIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+814,"Schiffornis virescens","Bailarín oliváceo","A",,"TITYRIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+815,"Xenopsaris albinucha","Tijerilla","B-C-d-G-h",,"TITYRIDAE","2.0",,,,,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+818,"Pachyramphus viridis","Anambé verdoso","A-B-D-G",,"TITYRIDAE","3.0",,,,,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+817,"Pachyramphus castaneus","Anambé castaño","A-b",,"TITYRIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+818,"Pachyramphus validus","Anambé grande","A-B-c-D",,"TITYRIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+819,"Pachyramphus polychopterus","Anambé comun","N",,"TITYRIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+820,"Phibalura flavirostris","Tesorito","A","(M)CA","INCERTAE SEDIS","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+821,"Piprites chloris","Bailarín verde","A",,"INCERTAE SEDIS","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+822,"Piprites pileata","Bailarín castaño","a","Vu","INCERTAE SEDIS","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+823,"Cyclarhis gujanensis","Juan chiviro","N",,"VIREONIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+824,"Hylophilus poicilotis","Chiví coronado","A",,"VIREONIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+825,"Vireo olivaceus","Chivi común","N",,"VIREONIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+826,"Cyanocorax cyanomelas","Urraca morada","a-B-C-D",,"CORVIDAE","3.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+827,"Cyanocorax caeruleus","Urraca azul","A","CA","CORVIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+828,"Cyanocorax chrysops","Urraca común","A-B-C-D-g-h",,"CORVIDAE","5.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+829,"Pygochelidon cyanoleuca","Golondrina barranquera","O",,"HIRUNDINIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+830,"Pygochelidon melanoleuca","Golondrina de collar","A",,"HIRUNDINIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+831,"Alopochelidon fucata","Golondrina cabeza rojiza","A-B-c-D-G-h",,"HIRUNDINIDAE","4.0",,,,,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+832,"Orochelidon andecola","Golondrina andina","D-E",,"HIRUNDINIDAE","2.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+833,"Stelgidopteryx ruficollis","Golondrina ribereña","A-B-C-D-G-H",,"HIRUNDINIDAE","3.0",,,,,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+834,"Progne tapera","Golondrina parda","N-o",,"HIRUNDINIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+835,"Progne subis","Golondrina purpúrea","a-d",,"HIRUNDINIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+836,"Progne chalybea","Golondrina doméstica","N-o",,"HIRUNDINIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+837,"Progne elegans","Golondrina negra","C-D-E-F-G-H-J",,"HIRUNDINIDAE","5.0",,,,,0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+838,"Tachycineta albiventer","Golondrina ala blanca","A",,"HIRUNDINIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+839,"Tachycineta leucorrhoa","Golondrina ceja blanca","N-o",,"HIRUNDINIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+840,"Tachycineta leucopyga","Golondrina patagónica","O",,"HIRUNDINIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+841,"Riparia riparia","Golondrina zapadora","O","(M)","HIRUNDINIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+842,"Hirundo rustica","Golondrina tijerita","O",,"HIRUNDINIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+843,"Petrochelidon pyrrhonota","Golondrina rabadilla canela","O",,"HIRUNDINIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+844,"Troglodytes aedon","Ratona común","O",,"TROGLODYTIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+845,"Troglodytes cobbi","Ratona de Malvinas","M","(En)","TROGLODYTIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+846,"Troglodytes solstitialis","Ratona ceja blanca","D",,"TROGLODYTIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+847,"Cistothorus platensis","Ratona aperdizada","O",,"TROGLODYTIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+848,"Campylorhynchus turdinus","Ratona grande","A-B-c",,"TROGLODYTIDAE","2.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+849,"Polioptila lactea","Tacuarita blanca","A","CA","POLIOPTILIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+850,"Polioptila dumicola","Tacuarita azul","N-o",,"POLIOPTILIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+851,"Donacobius atricapilla","Angú","A-B-c-D",,"DONACOBIIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+852,"Cinclus schulzii","Mirlo de agua","D","Vu","CINCLIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+853,"Catharus dryas","Zorzalito overo","D",,"TURDIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+854,"Catharus fuscescens","Zorzalito rojizo","a","(M)","TURDIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+855,"Catharus ustulatus","Zorzalito boreal","D-c-g-h","(M)","TURDIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+856,"Turdus falcklandii","Zorzal patagónico","F-H-I-J",,"TURDIDAE","4.0",,,,,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+857,"Turdus flavipes","Zorzal azulado","a",,"TURDIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+858,"Turdus leucomelas","Zorzal sabiá","A-B",,"TURDIDAE","5.0",,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+859,"Turdus fumigatus","Zorzal chocolate","a",,"TURDIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+860,"Turdus rufiventris","Zorzal colorado","N-o",,"TURDIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+861,"Turdus amaurochalinus","Zorzal chalchalero","N-o",,"TURDIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+862,"Turdus nigriceps","Zorzal herrero","D-c",,"TURDIDAE","1.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+863,"Turdus subalaris","Zorzal plomizo","A",,"TURDIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+864,"Turdus chiguanco","Zorzal chiguanco","c-D-E-F",,"TURDIDAE","5.0",,,,,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+865,"Turdus serranus","Zorzal negro","D",,"TURDIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+866,"Turdus albicollis","Zorzal collar blanco","A-D",,"TURDIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+867,"Mimus thenca","Tenca","I-j",,"MIMIDAE","3.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+868,"Mimus patagonicus","Calandria mora","C-E-F-G-H-I-J",,"MIMIDAE","4.0",,,,,0,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+869,"Mimus saturninus","Calandria grande","N-o",,"MIMIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+870,"Mimus triurus","Calandria real","N-o",,"MIMIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+871,"Mimus dorsalis","Calandria castaña","E",,"MIMIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+872,"Acridotheres cristatellus","Estornino crestado","H","(In)","STURNIDAE","2.0",,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+873,"Sturnus vulgaris","Estornino pinto","G-H","(In)","STURNIDAE","4.0",,,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+874,"Anthus lutescens","Cachirla chica","N",,"MOTACILLIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+875,"Anthus furcatus","Cachirla uña corta","N-o",,"MOTACILLIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+876,"Anthus chacoensis","Cachirla trinadora","c-g-H",,"MOTACILLIDAE","3.0",,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+877,"Anthus correndera","Cachirla común","O",,"MOTACILLIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+878,"Anthus nattereri","Cachirla dorada","B","Vu","MOTACILLIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+879,"Anthus hellmayri","Cachirla pálida","O",,"MOTACILLIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+880,"Anthus bogotensis","Cachirla andina","E",,"MOTACILLIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+881,"Anthus antarcticus","Cachirla grande","M","CA","MOTACILLIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+882,"Paroaria coronata","Cardenal común","N",,"THRAUPIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+883,"Paroaria capitata","Cardenilla","A-B-c-D-G-H",,"THRAUPIDAE","4.0",,,,,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+884,"Schistochlamys ruficapillus","Frutero canela","a",,"THRAUPIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+885,"Cissopis leverianus","Frutero overo","A",,"THRAUPIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+886,"Nemosia pileata","Frutero cabeza negra","A-B-C-D",,"THRAUPIDAE","2.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+887,"Thlypopsis sordida","Tangará gris","A-B-D",,"THRAUPIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+888,"Thlypopsis ruficeps","Tangará alisero","D",,"THRAUPIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+889,"Pyrrhocoma ruficeps","Pioró","A",,"THRAUPIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+890,"Trichothraupis melanops","Frutero corona amarilla","A-b-D",,"THRAUPIDAE","4.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+891,"Tachyphonus coronatus","Frutero coronado","A",,"THRAUPIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+892,"Tachyphonus rufus","Frutero negro","a- B-C-d-G",,"THRAUPIDAE","4.0",,,,,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+893,"Ramphocelus carbo","Fueguero oscuro","a",,"THRAUPIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+894,"Pseudosaltator rufiventris","Pepitero colorado","D-E","CA","THRAUPIDAE","2.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+895,"Stephanophorus diadematus","Frutero azul","A-G-H",,"THRAUPIDAE","3.0",,,,,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+896,"Pipraeidea melanonota","Sairá de antifaz","A-D-H",,"THRAUPIDAE","3.0",,,,,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+897,"Pipraeidea bonariensis","Naranjero","N-o",,"THRAUPIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+898,"Thraupis sayaca","Celestino común","A-B-C-D-G-H",,"THRAUPIDAE","5.0",,,,,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+899,"Thraupis palmarum","Celestino oliváceo","A",,"THRAUPIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+900,"Tangará preciosa","Sairá castaña","A",,"THRAUPIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+901,"Tangará cayana","Sairá pecho negro","A",,"THRAUPIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+902,"Tangará seledon","Sairá arcoiris","A",,"THRAUPIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+903,"Tersina viridis","Tersina","A",,"THRAUPIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+904,"Dacnis cayana","Saí azul","A",,"THRAUPIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+905,"Hemithraupis guira","Sairá dorada","A-D",,"THRAUPIDAE","4.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+906,"Conirostrum speciosum","Saí común","A-B-D",,"THRAUPIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+907,"Oreomanes fraseri","Saí grande","e","CA","THRAUPIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+908,"Diglossa carbonaria","Payador negro","e",,"THRAUPIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+909,"Diglossa sittoides","Payador canela","D-E",,"THRAUPIDAE","2.0",,,,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+910,"Catamblyrhynchus diadema","Diadema","D",,"THRAUPIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+911,"Phrygilus atriceps","Comesebo cabeza negra","E",,"THRAUPIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+912,"Phrygilus gayi","Comesebo andino","E-F-I-J",,"THRAUPIDAE","4.0",,,,,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+913,"Phrygilus patagonicus","Comesebo patagónico","I-J",,"THRAUPIDAE","4.0",,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+914,"Phrygilus fruticeti","Yal negro","C-D-E-F-G-h-I-J",,"THRAUPIDAE","4.0",,,,,0,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+915,"Phrygilus unicolor","Yal plomizo","E-J",,"THRAUPIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,"Phrygilus dorsalis","Comesebo puneño","E",,"THRAUPIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+917,"Phrygilus plebejus","Yal chico","C-d-E-f-g-h-J",,"THRAUPIDAE","5.0",,,,,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+918,"Phrygilus carbonarius","Yal carbonero","C-F-G-H","(En)","THRAUPIDAE","3.0",,,,,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+919,"Phrygilus alaudinus","Yal platero","E-c",,"THRAUPIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+920,"ldiopsar brachyurus","Yal grande","E",,"THRAUPIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+921,"Diuca speculifera","Diuca ala blanca","e",,"THRAUPIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+922,"Diuca diuca","Diuca común","O",,"THRAUPIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+923,"Melanodera melanodera","Yal austral","J-M",,"THRAUPIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+924,"Melanodera xanthogramma","Yal andino","E-J-m",,"THRAUPIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+925,"Haplospiza unicolor","Afrechero plomizo","A",,"THRAUPIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+926,"Lophospingus pusillus","Soldadito común","b-C-F-G",,"THRAUPIDAE","4.0",,,,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+927,"Lophospingus griseocristatus","Soldadito gris","e",,"THRAUPIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+928,"Donacospiza albifrons","Cachilo canela","a-B-G-H",,"THRAUPIDAE","3.0",,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+929,"Poospiza boliviana","Monterita quebradeña","d-E",,"THRAUPIDAE","1.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+930,"Poospiza hypochondria","Monterita pecho gris","d-E",,"THRAUPIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+931,"Poospiza erythrophrys","Monterita ceja rojiza","D",,"THRAUPIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+932,"Poospiza ornata","Monterita canela","C-F-G-h","( E n )","THRAUPIDAE","4.0",,,,,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+933,"Poospiza nigrorufa","Sietevestidos común","B-G-H",,"THRAUPIDAE","4.0",,,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+934,"Poospiza whitii","Sietevestidos serrano","C-D",,"THRAUPIDAE","2.0",,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+935,"Poospiza cabanisi","Monterita litoraleña","A-G-h",,"THRAUPIDAE","3.0",,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+936,"Poospiza torquata","Monterita de collar","b-C-D-e-F-G-h",,"THRAUPIDAE","4.0",,,,,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+937,"Poospiza melanoleuca","Monterita cabeza negra","NI",,"THRAUPIDAE","4.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+938,"Compsospiza baeri","Monterita serrana","d-E","( E n )Vu","THRAUPIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+939,"Sicalis citrina","Jilguero cola blanca","D",,"THRAUPIDAE","2.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+940,"Sicalis lutea","Jilguero puneño","E",,"THRAUPIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+941,"Sicalis uropygialis","Jilguero cara gris","E",,"THRAUPIDAE","2.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+942,"Sicalis luteocephala","Jilguero corona gris","E",,"THRAUPIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+943,"Sicalis auriventris","Jilguero grande","E-J",,"THRAUPIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+944,"Sicalis olivascens","Jilguero oliváceo","E-F",,"THRAUPIDAE","4.0",,,,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+945,"Sicalis mendozae","Jilgero del monte","E-F","( E n )","THRAUPIDAE","1.0",,,,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+946,"Sicalis lebruni","Jilguero austral","F-J",,"THRAUPIDAE","3.0",,,,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+947,"Sicalis flaveola","Jilguero dorado","N-o",,"THRAUPIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+948,"Sicalis luteola","Misto","O",,"THRAUPIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+949,"Emberizoidesherbicola","Coludo grande","B",,"THRAUPIDAE","3.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+950,"Emberizoides ypiranganus","Coludo chico","B",,"THRAUPIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+951,"Embernagra platensis","Verdón","N-o",,"THRAUPIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+952,"Volatinia jacarina","Volatinero","N",,"THRAUPIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+953,"Sporophila lineola","Corbatita overo","A-B-C-D",,"THRAUPIDAE","3.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+954,"Sporophila leucoptera","Corbatita blanco","B-c",,"THRAUPIDAE","3.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+955,"Sporophila pileata","Capuchino boina negra","B",,"THRAUPIDAE","3.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+956,"Sporophila hypoxantha","Capuchino canela","B-c-G-h",,"THRAUPIDAE","4.0",,,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+957,"Sporophila ruficollis","Capuchino garganta café","B-C-G-H",,"THRAUPIDAE","4.0",,,,,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+958,"Sporophila palustris","Capuchino pecho blanco","B-g-h","EP","THRAUPIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+959,"Sporophila hypochroma","Capuchino castaño","B-g-h","CA","THRAUPIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+960,"Sporophila cinnamomea","Capuchino corona gris","B-g","Vu","THRAUPIDAE","3.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+961,"Sporophila angolensis","Curió","A-b",,"THRAUPIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+962,"Sporophila nigricollis","Corbatita amarillo","a",,"THRAUPIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+963,"Sporophila caerulescens","Corbatita común","N",,"THRAUPIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+964,"Sporophila falcirostris","Corbatita picudo","A","Vu","THRAUPIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+965,"Sporophila frontalis","Corbatita oliváceo","a","Vu","THRAUPIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+966,"Sporophila collaris","Corbatita dominó","A-B-c-G-H",,"THRAUPIDAE","3.0",,,,,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+967,"Sporophila iberaensis","Capuchino iberá","B","EP","THRAUPIDAE","1.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+968,"Catamenia analis","Piquitodeoro común","C-D-E-f",,"THRAUPIDAE","3.0",,,,,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+969,"Catamenia inornata","Piquitodeoro grande","E",,"THRAUPIDAE","4.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+970,"Coryphaspiza melanotis","Cachilo de antifaz","b","Vu","THRAUPIDAE","2.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+971,"Coryphospingus cucullatus","Brasita de fuego","B-C-D-g",,"THRAUPIDAE","4.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+972,"Gubernatrix cristata","Cardenal amarillo","b-F-G","EP","THRAUPIDAE","3.0",,,,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+973,"Coereba flaveola","Mielero","A",,"THRAUPIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+974,"Tiaris obscurus","Espiguero pardo","B-C-D",,"THRAUPIDAE","2.0",,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+975,"Tiaris fuliginosus","Espiguero negro","A",,"THRAUPIDAE","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+976,"Saltatricula multicolor","Pepitero chico","B-C-d-F-G",,"INCERTAE SEDIS","4.0",,,,,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+977,"Saltator coerulescens","Pepitero gris","a-B-C-D-G-h",,"INCERTAE SEDIS","4.0",,,,,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+978,"Saltator similis","Pepitero verdoso","A-B-G",,"INCERTAE SEDIS","3.0",,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+979,"Saltator maxillosus","Pepitero picudo","A",,"INCERTAE SEDIS","1.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+980,"Saltator aurantiirostris","Pepitero de collar","N",,"INCERTAE SEDIS","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+981,"Saltator fuliginosus","Pepitero negro","A",,"INCERTAE SEDIS","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+982,"Chlorospingus flavopectus","Frutero yungueño","D",,"EMBERIZIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+983,"Rhynchospiza strigiceps","Cachilo corona castaña","b-C-d-f-G",,"EMBERIZIDAE","4.0",,,,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+984,"Ammodramus humeralis","Cachilo ceja amarilla","N-o",,"EMBERIZIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+985,"Arremon torquatus","Cerquero vientre blanco","D",,"EMBERIZIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+986,"Arremon flavirostris","Cerquero de collar","A-B-D",,"EMBERIZIDAE","5.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+987,"Zonotrichia capensis","Chingolo","o",,"EMBERIZIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+988,"Atlapetes fulviceps","Cerquero cabeza castaña","D",,"EMBERIZIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+989,"Atlapetes citrinellus","Cerquero amarillo","D","(En)","EMBERIZIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+990,"Piranga flava","Fueguero común","N",,"CARDINALIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+991,"Habia rubica","Fueguero morado","A",,"CARDINALIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+992,"Pheucticus aureoventris","Rey del bosque","c-D",,"CARDINALIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+993,"Amaurospiza moesta","Reinamora enana","A","CA","CARDINALIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+994,"Cyanoloxia glaucocaerulea","Reinamora chica","a-B-G-h",,"CARDINALIDAE","3.0",,,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+995,"Cyanocompsa brissonii","Reinamora grande","A-B-C-D-G-h",,"CARDINALIDAE","4.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+996,"Geothlypis aequinoctialis","Arañero cara negra","N",,"PARULIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+997,"Setophaga pitiayumi","Pitiayumí ","N",,"PARULIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+998,"Setophaga striata","Arañero estriado","a-d-h",,"PARULIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+999,"Myiothlypis flaveola","Arañero pico pálido","B",,"PARULIDAE","2.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1000,"Myiothlypis leucoblephara","Arañero silbón","A-B-G",,"PARULIDAE","4.0",,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1001,"Myiothlypis signata","arañero ceja amarilla","D",,"PARULIDAE","3.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1002,"Myiothlypis rivularis","arañero ribereño","A",,"PARULIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1003,"Myiothlypis bivittata","Arañero coronado grande","D",,"PARULIDAE","4.0",,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1004,"Basileuterus culicivorus","Arañero coronado chico","A-B-G-H",,"PARULIDAE","5.0",,,,,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1005,"Myioborus brunniceps","Arañero corona rojiza","D-C",,"PARULIDAE","5.0",,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1006,"Psarocolius decumanus","Yapú","A-B-D",,"ICTERIDAE","2.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1007,"Cacicus solitarius","Boyero negro","a-B-C-D-G-h",,"ICTERIDAE","4.0",,,,,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1008,"Cacicus chrysopterus","Boyero ala amarilla","A-B-c-D-g",,"ICTERIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+1009,"Cacicus haemorrhous","Boyero cacique","A",,"ICTERIDAE","4.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1010,"lcterus croconotus","Matico","C-B",,"ICTERIDAE","2.0",,,,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1011,"lcterus pyrrhopterus","Boyerito","N",,"ICTERIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1012,"Gnorimopsar chopi","Chopí","A-B-c-D-g",,"ICTERIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+1013,"Curaeus curaeus","Tordo patagónico","I-j",,"ICTERIDAE","4.0",,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1014,"Amblyramphus holosericeus","Federal","B-C-G-H",,"ICTERIDAE","3.0",,,,,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1015,"Agelasticus cyanopus","Varillero negro","A-B-C-D-G-h",,"ICTERIDAE","3.0",,,,,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1016,"Agelasticus thilius","Varillero ala amarilla","O",,"ICTERIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1017,"Chrysomus ruficapillus","Varillero congo","a-B-C-D-G-H",,"ICTERIDAE","4.0",,,,,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1018,"Xanthopsar flavus","Tordo amarillo","B-G","Vu","ICTERIDAE","2.0",,,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1019,"Pseudoleistes guirahuro","Pecho amarillo grande","B-g",,"ICTERIDAE","3.0",,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1020,"Pseudoleistes virescens","Pecho amarillo chico","N",,"ICTERIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1021,"Agelaioides badius","Tordo músico","N-o",,"ICTERIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1022,"Molothrus rufoaxillaris","Tordo pico corto","N-o",,"ICTERIDAE","5.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1023,"Molothrus oryzivorus","Tordo gigante","A-b-D",,"ICTERIDAE","2.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1024,"Molothrus bonariensis","Tordo renegrido","O",,"ICTERIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1025,"Dolichonyx oryzivorus","Charlatán","B-c-G-h","(M)","ICTERIDAE","2.0",,,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+1026,"Sturnella superciliaris","Pecho colorado","N",,"ICTERIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1027,"Sturnella defilippii","Loica pampeana","H","Vu","ICTERIDAE","2.0",,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1028,"Sturnella loyca","Loica común","O",,"ICTERIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1029,"Carduelis chloris","Verderón","h","(In)","FRINGILLIDAE","3.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1030,"Carduelis carduelis","Cardelino","h","(In)","FRINGILLIDAE","1.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1031,"Spinus crassirostris","Cabecitanegra picudo","E",,"FRINGILLIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1032,"Spinus magellanicus","Cabecitanegra común","N-o",,"FRINGILLIDAE","4.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1033,"Spinus atratus","Negrillo","E",,"FRINGILLIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1034,"Spinus uropygialis","Cabecitanegra andino","E",,"FRINGILLIDAE","3.0",,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1035,"Spinus barbatus","Cabecitanegra austral","F-g-h-I-J-M",,"FRINGILLIDAE","3.0",,,,,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+1036,"Euphonia chlorotica","Tangará común","A-B-C-D-g",,"FRINGILLIDAE","4.0",,,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1037,"Euphonia violacea","Tangará amarillo","A",,"FRINGILLIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1038,"Euphonia chalybea","Tangará picudo","A","CA","FRINGILLIDAE","2.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1039,"Euphonia cyanocephala","Tangará cabeza celeste","A-B-D",,"FRINGILLIDAE","3.0",,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1040,"Euphonia pectoralis","Tangará alcalde","A",,"FRINGILLIDAE","3.0",,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1041,"Chlorophonia cyanea","Tangará bonito","A-D",,"FRINGILLIDAE","3.0",,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1042,"Passer domesticus","Gorrión","O","(In)","PASSERIDAE","6.0",,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

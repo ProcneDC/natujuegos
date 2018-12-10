@@ -91,4 +91,14 @@ class UserController extends Controller
 
     }
 
+        //busqueda de usuarios (por nick, nombre o apellido al mismo tiempo)
+    public function searchUsers($query) {
+      $users= User::where(function ($usr) use ($query) {
+        $usr->where('username', 'like', $query.'%')
+          ->orWhere('first_name', 'like', $query.'%')
+          ->orWhere('last_name', 'like', $query.'%');
+      })->where('id', '<>', Auth::user()->id)->get();
+      return view('includes/user_items', compact('users')); // devuelve un html con la lista de usuarios encontrados
+    }
+
 }

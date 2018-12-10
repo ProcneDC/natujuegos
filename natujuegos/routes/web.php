@@ -26,6 +26,13 @@ Route::post('/profile', 'UserController@update')->middleware('auth');
 Route::get('/home_user', 'UserController@dashboard')->middleware('auth');
 
 Route::get('/memotest', 'UserController@index_memotest');
+Route::get('/notifications', 'HomeController@indexnotification');
+
+Route::get('/index_game', 'GameController@index_game');
+//Route::post('/index_game', 'GameController@index_game_response');
+
+
+
 
 // rutas de auth (login, register, etc.)
 //Route::auth();

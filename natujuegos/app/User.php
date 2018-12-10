@@ -49,8 +49,14 @@ class User extends Authenticatable
       return $this->belongsToMany(Game::class, 'games_users')->with('players')->where('practique', 0)->withPivot('state', 'points');
     }
     // devuelve las notificaciones del usuario
-    public function notifications() {
+    public function usernotifications() {
       return $this->hasMany(Notification::class)->orderBy('id', 'desc');
+    }
+
+        public function notifications()
+    {
+        //return $this->belongsToMany(Actor::class, 'tabla_relacion');
+        return $this->belongsToMany(Notification::class);
     }
     // devuelve las partidas pendientes de jugar
     public function gamesToPlay() {
