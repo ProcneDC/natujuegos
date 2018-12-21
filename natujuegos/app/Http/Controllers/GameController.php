@@ -15,19 +15,49 @@ class GameController extends Controller
         $aves = Bird::all();
 
     	return view('game.index_game', compact('aves'));
+    }
+    public function set_game()
+    {
+        return view('game.set_game');
+    }    
+    public function set_game_practice()
+    {
+        return view('game.practice_game');
+    }      
+    public function set_game_eco()
+    {
+        return view('game.practice_game_eco');
+    }     
+    public function set_game_family()
+    {
+        return view('game.practice_game_family');
     }    
 
     public function index_game()
     {
-    	$aves = Bird::all();
+
+        //traigo todas las aves con foto
+        $aves = Bird::where('photo', '!=' , '' )->get();
+
+    	//$aves = Bird::all();
 
         //falta filtro deecoregiones cuando se necesite (para count)
 
-    	$cantidad = count($aves);
+    	//$cantidad = count($aves);
+
+        $arr_aves = $aves->toArray();
+
+        //dd($arr_aves);
+
+        $cantidad = count($arr_aves);
+        $cantidad = $cantidad - 1;
 
     	$random = rand(1, $cantidad);
 
-        $ave = Bird::find($random);
+        //$ave = Bird::find($random);
+        $ave = $arr_aves[$random];
+        //dd($ave);
+        //dd($ave['photo']);
 
         do{
             $random2 = rand(1, $cantidad);
@@ -49,10 +79,15 @@ class GameController extends Controller
         }
         while(($random5 == $random) || ($random5 == $random2) || ($random5 == $random3) || ($random5 == $random4));
 
-        $respuesta2 = Bird::find($random2);
-        $respuesta3 = Bird::find($random3);
-        $respuesta4 = Bird::find($random4);
-        $respuesta5 = Bird::find($random5);
+        //$respuesta2 = Bird::find($random2);
+        //$respuesta3 = Bird::find($random3);
+        //$respuesta4 = Bird::find($random4);
+        //$respuesta5 = Bird::find($random5);
+
+        $respuesta2 = $arr_aves[$random2];
+        $respuesta3 = $arr_aves[$random3];
+        $respuesta4 = $arr_aves[$random4];
+        $respuesta5 = $arr_aves[$random5];
 
         //defino la cantidad de respuestas (5)
         $respuestasEnOrden = [$ave, $respuesta2, $respuesta3, $respuesta4, $respuesta5];

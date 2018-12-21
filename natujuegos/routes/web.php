@@ -28,6 +28,11 @@ Route::get('/home_user', 'UserController@dashboard')->middleware('auth');
 Route::get('/memotest', 'UserController@index_memotest');
 Route::get('/notifications', 'HomeController@indexnotification');
 
+Route::get('/game', 'GameController@set_game');
+Route::get('/game_practice', 'GameController@set_game_practice');
+Route::get('/ecoregiones', 'GameController@set_game_eco');
+Route::get('/familias', 'GameController@set_game_family');
+
 Route::get('/index_game', 'GameController@index_game');
 //Route::post('/index_game', 'GameController@index_game_response');
 

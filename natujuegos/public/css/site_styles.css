@@ -127,3 +127,45 @@ html, body {
 }
 
 /* ./ Laravel Styles */
+
+
+/* NATU ECOREGIONES*/
+#mapa{
+    width: 33vw;
+    margin: auto;
+}
+
+/* FAMILIAS*/
+.container-circles{
+display: flex;
+    padding: 15px;
+    flex-wrap: wrap;
+
+
+}
+.circle{
+    background-size: 56%;
+    background-color: aquamarine;
+    background-position: 18px 19px;
+    background-repeat: no-repeat;
+    background-image: url(../img/familias/picaflor.png);
+    background-color: aquamarine;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    color: black;
+    font-weight: 700;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+        margin: 10px;
+
+    box-shadow: 0 4px 22px 0 rgba(0,0,0,0.2),0 6px 41px 0 rgba(0,0,0,0.19) !important;
+}
+
+.circle p{
+	    justify-content: center;
+    align-self: center;
+    margin-top: 65px;
+}

@@ -18,12 +18,12 @@
           <form action="" method="get" id="">
             @csrf
             <div class="form-check" id="check">
-              <img src="{{ asset( $ave->photo  ) }}" width="300"><br>
-              <input class="form-check-input" type="hidden" name="foto" value="{{ $ave->name }}">
+              <img src="{{  asset($ave['photo']) }}" width="300"><br>
+              <input class="form-check-input" type="hidden" name="foto" value="{{ $ave['name'] }}">
               @foreach  ($respuestasDesordenadas as $respuesta)
-              <input class="form-check-input" type="radio" value="{{ $respuesta->name }}" id="{{ $respuesta->name }}">
-              <label class="form-check-label" for="{{ $respuesta->name }}">
-                {{ $respuesta->name }}
+              <input class="form-check-input" type="radio" value="{{ $respuesta['name']  }}" id="{{ $respuesta['name'] }}">
+              <label class="form-check-label" for="{{ $respuesta['name']  }}">
+                {{ $respuesta['name']  }}
               </label><br>
               @endforeach
             </div>
